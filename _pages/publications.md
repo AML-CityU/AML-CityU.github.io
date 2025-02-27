@@ -59,7 +59,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2025
-[1] [Dual Test-time Training for Out-of-distribution Recommender System](https://arxiv.org/abs/2407.15620)
+[1] [Dual Test-time Training for Out-of-distribution Recommender System](https://arxiv.org/abs/2407.15620)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xihong Yang, Yiqi Wang, Jin Chen, Wenqi Fan, Xiangyu Zhao, En Zhu, Xinwang Liu, Defu Lian\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yang2024dual.html)]
