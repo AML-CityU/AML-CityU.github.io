@@ -121,7 +121,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2024harnessing.html)]\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence
 
-[13] [POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning](https://arxiv.org/pdf/2502.10038?)\
+[13] [POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning](https://arxiv.org/abs/2502.10038)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiawei Cheng, Jingyuan Wang, Yichuan Zhang, Jiahao Ji, Yuanshao Zhu, Zhibo Zhang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/cheng2025poi.html)]\
