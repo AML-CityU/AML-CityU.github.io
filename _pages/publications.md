@@ -67,8 +67,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Wei Ni, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Yaoshu Wang, Jianwei Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDE'25, Proceedings of the 40th IEEE International Conference on Data Engineering
 
-[3] Uniform Graph Pre-training and Prompting for Transferable Recommendation\
-&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems
+[3] [Uniform Graph Pre-training and Prompting for Transferable Recommendation](https://dl.acm.org/doi/pdf/10.1145/3724392)\
+&nbsp;&nbsp;&nbsp;&nbsp;Qing Yu, Lixin Zou, Xiangyang Luo, Xiangyu Zhao, Chenliang Li\
+&nbsp;&nbsp;&nbsp;&nbsp;TOIS, Transactions on Information Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yu2025uniform.html)]
 
 [4] [Dual Test-time Training for Out-of-distribution Recommender System](https://arxiv.org/abs/2407.15620)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xihong Yang, Yiqi Wang, Jin Chen, Wenqi Fan, Xiangyu Zhao, En Zhu, Xinwang Liu, Defu Lian\
