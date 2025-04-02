@@ -59,8 +59,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2025
-[1] MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning\
-&nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Xiangyu Zhao, Ruocheng Guo, Junhui Wang\
+[1] [MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning](https://arxiv.org/abs/2504.00460)\
+&nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDE'25 PhD Symposium, Proceedings of the 40th IEEE International Conference on Data Engineering
 
 [2] ZeroED: Hybrid Zero-Shot Error Detection with Large Language Model Reasoning\
