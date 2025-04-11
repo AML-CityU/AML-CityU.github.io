@@ -72,6 +72,13 @@
   info: PhD-Data Science
   education1: BS & MS from NWPU
   website: https://wlzhang2020.github.io/
+- name: Derong Xu
+  photo: derongxu.jpg
+  info: CityU-USTC Joint-PhD
+  email: derongxu@mail.ustc.edu.cn
+  number_educ: 0
+  education1: Joint-PhD student with USTC, Prof Enhong Chen and Prof Tong Xu
+  website: https://quqxui.github.io/
 - name: Wei Ni
   photo: weini.jpg
   email: 12121061@zju.edu.cn
@@ -86,14 +93,6 @@
   info: CityU-Tongji Joint-PhD
   education1: Joint-PhD with Tongji, Prof. Yongrui Duan
   website: https://yushenglu94.github.io/
-
-- name: Derong Xu
-  photo: derongxu.jpg
-  info: CityU-USTC Joint-PhD
-  email: derongxu@mail.ustc.edu.cn
-  number_educ: 0
-  education1: Joint-PhD student with USTC, Prof Enhong Chen and Prof Tong Xu
-  website: https://quqxui.github.io/
 - name: Jiawei Cheng
   photo: jiaweicheng.jpg
   info: Will join AML lab in 24Fall
