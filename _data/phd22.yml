@@ -168,15 +168,16 @@
   number_educ: 0
   education1: Joint-PhD student with UCAS
   website: https://likaiucas.github.io/
-- name: Guojing Li
-  photo: guojingli.jpg
-  info: CityU-RUC Joint-PhD
-  email: alfredjameslee@ruc.edu.cn
-  number_educ: 0
-  website: https://alfredjamesli.github.io/AlfredJamesLi/
 - name: Yimin Deng
   photo: yimindeng.jpg
   info: CityU-XJTU Joint-PhD
   email: dymanne@stu.xjtu.edu.cn
   number_educ: 0
   website: https://dymanne123.github.io/
+- name: Guojing Li
+  photo: guojingli.jpg
+  info: CityU-RUC Joint-PhD
+  email: alfredjameslee@ruc.edu.cn
+  number_educ: 0
+  website: https://alfredjamesli.github.io/AlfredJamesLi/
+
