@@ -61,7 +61,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Publications in 2025
 [1] [Data augmentation on graphs: a technical survey](https://arxiv.org/abs/2212.09970)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiajun Zhou, Chenxuan Xie, Shengbo Gong, Zhenyu Wen, Xiangyu Zhao, Qi Xuan, Xiaoniu Yang\
-&nbsp;&nbsp;&nbsp;&nbsp;CSUR, Acm computing surveys
+&nbsp;&nbsp;&nbsp;&nbsp;CSUR, Acm Computing Surveys
 
 [2] Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xiangyu Zhao, Yejing Wang, Zijian Zhang, Howard Zhong, Chong Chen, Xiang Li, Wei Huang and Feng Tian\
