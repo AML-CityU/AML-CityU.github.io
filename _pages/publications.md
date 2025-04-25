@@ -69,7 +69,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [3] [Data augmentation on graphs: a technical survey](https://arxiv.org/abs/2212.09970)\
 &nbsp;&nbsp;&nbsp;&nbsp;Feng Liu, Lixin Zou, Xiangyu Zhao, Min Tang, Liming Dong, Dan Luo, Xiangyang Luo, Chenliang Li\
-&nbsp;&nbsp;&nbsp;&nbsp;CSUR, Acm Computing Surveys
+&nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys
 
 [4] Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xiangyu Zhao, Yejing Wang, Zijian Zhang, Howard Zhong, Chong Chen, Xiang Li, Wei Huang and Feng Tian\
