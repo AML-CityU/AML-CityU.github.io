@@ -60,7 +60,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2025
 [1] Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers\
-&nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems
+&nbsp;&nbsp;&nbsp;&nbsp;TIST, ACM Transactions on Intelligent Systems and Technology
 
 [2] DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao\
