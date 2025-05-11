@@ -64,6 +64,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2025
+[1] Model Merging for Knowledge Editing\
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'25, Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics\
+&nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xian Wu, Guojing Li, Yingying Zhang, Yefeng Zheng, Tianshi Ming, Yejing Wang, Wanyu Wang, Xiangyu Zhao
+
 [1] Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers\
 &nbsp;&nbsp;&nbsp;&nbsp;TIST, ACM Transactions on Intelligent Systems and Technology
 
