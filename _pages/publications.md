@@ -65,45 +65,45 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2025
 [1] Model Merging for Knowledge Editing\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'25, Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics\
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'25(Industry Track), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xian Wu, Guojing Li, Yingying Zhang, Yefeng Zheng, Tianshi Ming, Yejing Wang, Wanyu Wang, Xiangyu Zhao
 
-[1] Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers\
+[2] Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers\
 &nbsp;&nbsp;&nbsp;&nbsp;TIST, ACM Transactions on Intelligent Systems and Technology
 
-[2] DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation\
+[3] DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'25, Proceedings of the 34th International Joint Conference on Artificial Intelligence
 
-[3] Flow Matching based Sequential Recommender Model\
+[4] Flow Matching based Sequential Recommender Model\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiajun Zhou, Chenxuan Xie, Shengbo Gong, Zhenyu Wen, Xiangyu Zhao, Qi Xuan, Xiaoniu Yang\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'25, Proceedings of the 34th International Joint Conference on Artificial Intelligence
 
-[4] [Data augmentation on graphs: a technical survey](https://arxiv.org/abs/2212.09970)\
+[5] [Data augmentation on graphs: a technical survey](https://arxiv.org/abs/2212.09970)\
 &nbsp;&nbsp;&nbsp;&nbsp;Feng Liu, Lixin Zou, Xiangyu Zhao, Min Tang, Liming Dong, Dan Luo, Xiangyang Luo, Chenliang Li\
 &nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys
 
-[5] Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation\
+[6] Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xiangyu Zhao, Yejing Wang, Zijian Zhang, Howard Zhong, Chong Chen, Xiang Li, Wei Huang and Feng Tian\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[6] PAD: Large Language Models Enhancing Sequential Recommendation\
+[7] PAD: Large Language Models Enhancing Sequential Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Junwei Pan, Pengyue Jia, Wanyu Wang, Maolin Wang, Zhixiang Feng, Xiaotian Li, Jie Jiang and Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[7] Generative Auto-Bidding with Value-Guided Explorations\
+[8] Generative Auto-Bidding with Value-Guided Explorations\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An and Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[8] STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation\
+[9] STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Sheng Zhang, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang and Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[9] FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval\
+[10] FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;Bohan Hou, Haoqiang Lin, Xuemeng Song, Haokun Wen, Meng Liu, Yupeng Hu and Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
-[10] Multi-scenario Instance Embedding Learning for Deep Recommender Systems\
+[11] Multi-scenario Instance Embedding Learning for Deep Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;Chaohua Yang, Dugang Liu, Xing Tang, Yuwen Fu, Xiuqiang He, Xiangyu Zhao and Zhong Ming\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
