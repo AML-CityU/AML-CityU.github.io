@@ -1,4 +1,7 @@
 - date: May 2025
+  headline: "Tianshuo Wei, Xuhui Chen, Yanxin Chen, and Linjie Mi have been awarded the Outstanding Performance Award. Congratulations!"
+
+- date: May 2025
   headline: "Our paper 'Training-free LLM Merging for Multi-task Learning' got accepted by ACL'25. Congratulations to Zichuan Fu, Yejing Wang!"
 
 - date: May 2025
@@ -17,13 +20,19 @@
   headline: "Our paper 'Stepwise Reasoning Error Disruption Attack of LLMs' got accepted by ACL'25. Congratulations to  Jingyu Peng, Maolin Wang, Pengyue Jia, Qidong Liu!"
 
 - date: May 2025
-  headline: "Our paper 'Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework' got accepted by KDD'25. Congratulations to  Xiao Han!"
+  headline: "Our paper 'Put Teacher in Student’s Shoes: Cross-Distillation for Ultra-compact Model Compression Framework' got accepted by KDD'25. Congratulations to Maolin Wang!"
 
 - date: May 2025
-  headline: "Our paper 'Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision' got accepted by KDD'25. Congratulations to  Yuanshao Zhu, Xiao Han, Qidong Liu!"
+  headline: "Our paper 'FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation' got accepted by KDD'25. Congratulations to Maolin Wang, Binhao Wang, Sheng Zhang!"  
 
 - date: May 2025
-  headline: "Our paper ' Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation' got accepted by KDD'25. Congratulations to  Yi Wen, Derong Xu, Pengyue Jia, Maolin Wang!"
+  headline: "Our paper 'Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework' got accepted by KDD'25. Congratulations to Xiao Han!"
+
+- date: May 2025
+  headline: "Our paper 'Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision' got accepted by KDD'25. Congratulations to Yuanshao Zhu, Xiao Han, Qidong Liu!"
+
+- date: May 2025
+  headline: "Our paper 'Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation' got accepted by KDD'25. Congratulations to  Yi Wen, Derong Xu, Pengyue Jia, Maolin Wang!"
 
 - date: May 2025
   headline: "Our paper 'LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration' got accepted by KDD'25. Congratulations to Yingyi Zhang, Pengyue Jia, Derong Xu, Maolin Wang!"
