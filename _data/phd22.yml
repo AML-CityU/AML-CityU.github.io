@@ -129,56 +129,7 @@
   email: artillerywtz@gmail.com
   number_educ: 0
   education1: MS from UCAS
-  website: https://github.com/MessiahCorleone
-- name: Ziwei Liu
-  photo: ziweiliu.jpg
-  info: PhD-Data Science
-  email: ziwliu8-c@my.cityu.edu.hk
-  number_educ: 0
-  website: https://ziwliu8.github.io/
-- name: Yuxuan Hu
-  photo: yuxuanhu.jpg
-  info: PhD-Data Science
-  email: huyx555@gmail.com
-  number_educ: 0
-  website: https://huyx55.github.io/
-- name: Zimo Zhao
-  photo: zimozhao.jpg
-  info: PhD-Data Science
-  email: 223040132@link.cuhk.edu.cn
-  number_educ: 0
-  website: https://github.com/zzm-black
-- name: Yequan Hu
-  photo: yequanhu.jpg
-  info: PhD-Data Science
-  email: huyequan2022@163.com
-  number_educ: 0
-  website: 
-- name: Bowen Yu
-  photo: bowenyu.jpg
-  info: PhD-Data Science
-  email: bowyu2-c@my.cityu.edu.hk
-  number_educ: 0
-  website: https://github.com/DrYu0815
-- name: Bowen Liu
-  photo: bowenliu.jpg
-  info: PhD-Data Science
-  email: 1077909252@qq.com
-  number_educ: 0
-  website: https://github.com/jhvghn  
-- name: Jiangping Lv
-  photo: jiangpinglv.jpg
-  info: Part-time PhD-Data Science
-  email: virginia2019lu@gmail.com
-  number_educ: 0
-  website: https://virginia-jp.github.io/MyFirstWebsite/  
-- name: Chaoxi Liang
-  photo: chaoxiliang.jpg
-  info: Part-time PhD-Data Science
-  email: 
-  number_educ: 0
-  website:  
-    
+  website: https://github.com/MessiahCorleone    
 - name: Jingyu Peng
   photo: jingyupeng.jpg
   info: PhD-Data Science (CityU-USTC Joint-PhD)
@@ -228,3 +179,51 @@
   email: alfredjameslee@ruc.edu.cn
   number_educ: 0
   website: https://alfredjamesli.github.io/AlfredJamesLi/
+- name: Ziwei Liu
+  photo: ziweiliu.jpg
+  info: PhD-Data Science
+  email: ziwliu8-c@my.cityu.edu.hk
+  number_educ: 0
+  website: https://ziwliu8.github.io/
+- name: Yuxuan Hu
+  photo: yuxuanhu.jpg
+  info: PhD-Data Science
+  email: huyx555@gmail.com
+  number_educ: 0
+  website: https://huyx55.github.io/
+- name: Zimo Zhao
+  photo: zimozhao.jpg
+  info: PhD-Data Science
+  email: 223040132@link.cuhk.edu.cn
+  number_educ: 0
+  website: https://github.com/zzm-black
+- name: Yequan Hu
+  photo: yequanhu.jpg
+  info: PhD-Data Science
+  email: huyequan2022@163.com
+  number_educ: 0
+  website: 
+- name: Bowen Yu
+  photo: bowenyu.jpg
+  info: PhD-Data Science
+  email: bowyu2-c@my.cityu.edu.hk
+  number_educ: 0
+  website: https://github.com/DrYu0815
+- name: Bowen Liu
+  photo: bowenliu.jpg
+  info: PhD-Data Science
+  email: 1077909252@qq.com
+  number_educ: 0
+  website: https://github.com/jhvghn  
+- name: Jiangping Lv
+  photo: jiangpinglv.jpg
+  info: Part-time PhD-Data Science
+  email: virginia2019lu@gmail.com
+  number_educ: 0
+  website: https://virginia-jp.github.io/MyFirstWebsite/  
+- name: Chaoxi Liang
+  photo: chaoxiliang.jpg
+  info: Part-time PhD-Data Science
+  email: 
+  number_educ: 0
+  website:  
