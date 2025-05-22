@@ -86,7 +86,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [5] The Elephant in the Room: Exploring the Role of Neutral Words in Language Model Group-Agnostic Debiasing\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025\
-&nbsp;&nbsp;&nbsp;&nbsp;Xirwei Guo, Jiashi Gao, Junlei Zhou, Jiaxin Zhang, Guanhua Chen, Xiangyu Zhao, Quanyu Dai, Xin Yao, Xuetao Wei
+&nbsp;&nbsp;&nbsp;&nbsp;Xinwei Guo, Jiashi Gao, Junlei Zhou, Jiaxin Zhang, Guanhua Chen, Xiangyu Zhao, Quanying Dai, Haiyan Wu, Xin Yao, Xuetao Wei
 
 [6] A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025\
