@@ -132,11 +132,11 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'25, Proceedings of the 34th International Joint Conference on Artificial Intelligence
 
 [17] Flow Matching based Sequential Recommender Model\
-&nbsp;&nbsp;&nbsp;&nbsp;Jiajun Zhou, Chenxuan Xie, Shengbo Gong, Zhenyu Wen, Xiangyu Zhao, Qi Xuan, Xiaoniu Yang\
+&nbsp;&nbsp;&nbsp;&nbsp;Feng Liu, Lixin Zou, Xiangyu Zhao, Min Tang, Liming Dong, Dan Luo, Xiangyang Luo, Chenliang Li\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'25, Proceedings of the 34th International Joint Conference on Artificial Intelligence
 
-[18] [Data augmentation on graphs: a technical survey](https://arxiv.org/abs/2212.09970)\
-&nbsp;&nbsp;&nbsp;&nbsp;Feng Liu, Lixin Zou, Xiangyu Zhao, Min Tang, Liming Dong, Dan Luo, Xiangyang Luo, Chenliang Li\
+[18] [Data Augmentation on Graphs: A Technical Survey](https://arxiv.org/abs/2212.09970)\
+&nbsp;&nbsp;&nbsp;&nbsp;Jiajun Zhou, Chenxuan Xie, Shengbo Gong, Zhenyu Wen, Xiangyu Zhao, Qi Xuan, Xiaoniu Yang\
 &nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys
 
 [19] Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation\
@@ -187,7 +187,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yi2025adaptive.html)]
 
 [30] [SampleLLM: Optimizing Tabular Data Synthesis in Recommendations](https://arxiv.org/abs/2501.16125)\
-&nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Zhaocheng Du, Xiaopeng Li, Xiangyu Zhao, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang\
+&nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Zhaocheng Du, Xiaopeng Li, Yichao Wang, Xiangyang Li, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'25 (industry track), Proceedings of the ACM Web Conference 2025\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gao2025samplellm.html)]\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system</font>
@@ -223,7 +223,6 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2024llm.html)]\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation (4.6%) </font>
 
-
 [37] [GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching](https://arxiv.org/pdf/2408.10286)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Zijian Zhang, Xiangyu Zhao, Yuanshao Zhu, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence\
@@ -240,7 +239,6 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'25, Proceedings of the 39th AAAI Conference on Artificial Intelligence\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/cheng2025poi.html)]\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation (4.6%) </font>
-
 
 [40] [SIGMA: Selective Gated Mamba for Sequential Recommendation](https://arxiv.org/abs/2408.11451)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziwei Liu, Qidong Liu, Yejing Wang, Wanyu Wang, Pengyue Jia, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao\
