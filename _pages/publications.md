@@ -911,7 +911,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [3] [Deep reinforcement learning for information retrieval: Fundamentals and advances](https://dl.acm.org/doi/pdf/10.1145/3397271.3401467)\
 &nbsp;&nbsp;&nbsp;&nbsp;Weinan Zhang, Xiangyu Zhao, Li Zhao, Dawei Yin, Grace Hui Yang, Alex Beutel\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'20, Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'20, Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhang2020deep.html)]
 
 [4] [Automated embedding size search in deep recommender systems](https://dl.acm.org/doi/pdf/10.1145/3397271.3401436)\
