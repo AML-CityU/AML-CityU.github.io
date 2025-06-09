@@ -128,8 +128,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Langming Liu, Wanyu Wang, Chi Zhang, Bo Li, Hongzhi Yin, Xuetao Wei, Wenbo Su, Bo Zheng, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25(ADS Track), Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[16] Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers\
-&nbsp;&nbsp;&nbsp;&nbsp;TIST, ACM Transactions on Intelligent Systems and Technology
+[16] [Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers](https://dl.acm.org/doi/10.1145/3735652)\
+&nbsp;&nbsp;&nbsp;&nbsp;Teng Guo, Bojun Zhan, Shuyan Huang, Jiahao Chen, Xiangyu Zhao, Mingliang Hou, Zitao Liu\
+&nbsp;&nbsp;&nbsp;&nbsp;TIST, ACM Transactions on Intelligent Systems and Technology\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/guo2025improving.html)]
 
 [17] DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao\
