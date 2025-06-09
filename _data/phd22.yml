@@ -185,12 +185,30 @@
   email: ziwliu8-c@my.cityu.edu.hk
   number_educ: 0
   website: https://ziwliu8.github.io/
+- name: Sheng Zhang
+  photo: shengzhang.jpg
+  info: PhD-Data Science
+  email: szhang844-c@my.cityu.edu.hk
+  number_educ: 0
+  website: https://szhang-cityu.github.io/
+- name: Xiaowei Qian
+  photo: xiaoweiqian.jpg
+  info: PhD-Data Science
+  email: xiaoweiqian0311@gmail.com
+  number_educ: 0
+  website: https://xweiq.github.io/
 - name: Yuxuan Hu
   photo: yuxuanhu.jpg
   info: PhD-Data Science
   email: huyx555@gmail.com
   number_educ: 0
   website: https://huyx55.github.io/
+- name: Jiancheng Dong
+  photo: jianchengdong.jpg
+  info: PhD-Data Science
+  email: dongjiancheng77@gmail.com
+  number_educ: 0
+  website: https://dongjiancheng77.github.io/
 - name: Zimo Zhao
   photo: zimozhao.jpg
   info: PhD-Data Science
@@ -212,9 +230,9 @@
 - name: Bowen Liu
   photo: bowenliu.jpg
   info: PhD-Data Science
-  email: 1077909252@qq.com
+  email: Southamptonlbw@outlook.com
   number_educ: 0
-  website: https://github.com/jhvghn  
+  website: https://jhvghn.github.io/
 - name: Jiangping Lv
   photo: jiangpinglv.jpg
   info: Part-time PhD-Data Science
@@ -225,5 +243,11 @@
   photo: chaoxiliang.jpg
   info: Part-time PhD-Data Science
   email: jill.cyleung@gmail.com
+  number_educ: 0
+  website:  
+- name: Fangyu Hong
+  photo: fangyuhong.jpg
+  info: CityU-CSU Joint-PhD
+  email: fangyuhong@csu.edu.cn
   number_educ: 0
   website:  
