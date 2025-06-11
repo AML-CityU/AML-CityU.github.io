@@ -121,7 +121,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [16] Large Language Model Enhanced Recommender Systems: A Survey\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, Pengyue Jia, Chong Chen, Wei Huang, Feng Tian\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2024llmsurvey.html)]
 
 [17] [Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers](https://dl.acm.org/doi/10.1145/3735652)\
