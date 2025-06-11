@@ -1,16 +1,3 @@
-- name: Xiao Han
-  photo: xiaohan.jpg
-  email: xhan49-c@my.cityu.edu.hk
-  number_educ: 0
-  info: PhD-Data Science, 2024, current position-Associate Professor at ZJUT 
-  education1: with Prof Dingxuan Zhou (USYD)
-  website: https://www.hahahenha.net/static/CV/index_ENG.html
-- name: Haoran Yang
-  photo: haoranyang.jpg
-  info: PhD at UTS&PolyU, with Prof Guandong Xu and Prof Qing Li, Online RA in 2022-2024, current position - Associate Professor at Central South University
-  email: haoran.yang-2@student.uts.edu.au
-  number_educ: 0
-  website: https://haoran-young.github.io/
 - name: Chi Zhang
   photo: chizhang.jpg
   info: PhD at HEU, with Prof Rui Chen and Prof Qilong Han, RA in 2022-Now
