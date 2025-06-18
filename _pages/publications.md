@@ -83,7 +83,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Xinwei Guo, Jiashi Gao, Junlei Zhou, Jiaxin Zhang, Guanhua Chen, Xiangyu Zhao, Quanying Dai, Haiyan Wu, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
 
-[7] A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs\
+[7] [A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs](https://arxiv.org/abs/2506.14235)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yimin Deng, Yuxia Wu, Yejing Wang, Guoshuai Zhao, Li Zhu, Qidong Liu, Derong Xu, Zichuan Fu, Xian Wu, Yefeng Zheng, Xiangyu Zhao, Xueming Qian\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
 
