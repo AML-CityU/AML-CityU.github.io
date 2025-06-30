@@ -59,9 +59,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2025
-[1] Comparative Analysis of Greenery Inequalities in New York and London: Social-Economic And Spatial Dimensions\
+[1] [Comparative Analysis of Greenery Inequalities in New York and London: Social-Economic And Spatial Dimensions](https://doi.org/10.1016/j.ufug.2025.128939)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yequan Hu, Mingze Chen, Yuxuan Cai\
-&nbsp;&nbsp;&nbsp;&nbsp;Urban Forestry & Urban Greening
+&nbsp;&nbsp;&nbsp;&nbsp;Urban Forestry & Urban Greening\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/HU2025128939.html)]
 
 [2] AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration\
 &nbsp;&nbsp;&nbsp;&nbsp;Minjiang Huang, Jipeng Qiang, Yi Zhu, Chaowei Zhang, Xiangyu Zhao, Kui Yu\
@@ -165,11 +166,11 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xiangyu Zhao, Yejing Wang, Zijian Zhang, Howard Zhong, Chong Chen, Xiang Li, Wei Huang and Feng Tian\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
-[26] PAD: Large Language Models Enhancing Sequential Recommendation\
+[26] [PAD: Large Language Models Enhancing Sequential Recommendation](https://arxiv.org/abs/2412.04107)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Junwei Pan, Pengyue Jia, Wanyu Wang, Maolin Wang, Zhixiang Feng, Xiaotian Li, Jie Jiang and Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
-[27] Generative Auto-Bidding with Value-Guided Explorations\
+[27] [Generative Auto-Bidding with Value-Guided Explorations](https://arxiv.org/abs/2504.14587)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An and Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
