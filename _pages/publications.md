@@ -61,7 +61,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Publications in 2025
 [1] Mitigating Stereotypes in Text-to-Image Generation: A Novel Perspective of Selective Neural Suppression\
 &nbsp;&nbsp;&nbsp;&nbsp;Junlei Zhou, Jiashi Gao, Xinwei Guo, Haiyan Wu, Quanying Liu, Xiangyu Zhao, Hongxin Wei, Xin yao, Xuetao Wei\
-&nbsp;&nbsp;&nbsp;&nbsp;MM'25, Proceedings of the 33rd ACM International Conference on Multimedia, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;MM'25, Proceedings of the 33rd ACM International Conference on Multimedia, CCF-A
 
 [2] [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/pdf/2312.15450)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin\
