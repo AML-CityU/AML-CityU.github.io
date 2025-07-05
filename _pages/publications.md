@@ -59,73 +59,77 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2025
-[1] [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/pdf/2312.15450)\
+[1] Mitigating Stereotypes in Text-to-Image Generation: A Novel Perspective of Selective Neural Suppression\
+&nbsp;&nbsp;&nbsp;&nbsp;Junlei Zhou, Jiashi Gao, Xinwei Guo, Haiyan Wu, Quanying Liu, Xiangyu Zhao, Hongxin Wei, Xin yao, Xuetao Wei\
+&nbsp;&nbsp;&nbsp;&nbsp;MM'25, Proceedings of the 33rd ACM International Conference on Multimedia, CCF-A\
+
+[2] [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/pdf/2312.15450)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023agent4ranking.html)]
 
-[2] [Comparative Analysis of Greenery Inequalities in New York and London: Social-Economic And Spatial Dimensions](https://doi.org/10.1016/j.ufug.2025.128939)\
+[3] [Comparative Analysis of Greenery Inequalities in New York and London: Social-Economic And Spatial Dimensions](https://doi.org/10.1016/j.ufug.2025.128939)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yequan Hu, Mingze Chen, Yuxuan Cai\
 &nbsp;&nbsp;&nbsp;&nbsp;Urban Forestry & Urban Greening\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/HU2025128939.html)]
 
-[3] AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration\
+[4] AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration\
 &nbsp;&nbsp;&nbsp;&nbsp;Minjiang Huang, Jipeng Qiang, Yi Zhu, Chaowei Zhang, Xiangyu Zhao, Kui Yu\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 (Demo Track), Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[4] [Stepwise Reasoning Error Disruption Attack of LLMs](https://arxiv.org/abs/2412.11934)\
+[5] [Stepwise Reasoning Error Disruption Attack of LLMs](https://arxiv.org/abs/2412.11934)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingyu Peng, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25, Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[5] LLMs Trust Humans More, That's a Problem! Unveiling and Mitigating the Authority Bias in Retrieval-Augmented Generation\
+[6] LLMs Trust Humans More, That's a Problem! Unveiling and Mitigating the Authority Bias in Retrieval-Augmented Generation\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuxuan Li, Xirwei Guo, Jiashi Gao, Guanhua Chen, Xiangyu Zhao, Jiaxin Zhang, Quanying Liu, Haixin Zhang, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25, Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[6] [Training-free LLM Merging for Multi-task Learning](https://arxiv.org/abs/2506.12379)\
+[7] [Training-free LLM Merging for Multi-task Learning](https://arxiv.org/abs/2506.12379)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xian Wu, Yejing Wang, Wanyu Wang, Shanshan Ye, Hongzhi Yin, Yi Chang, Yefeng Zheng, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25, Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[7] [Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/abs/2412.08519)\
+[8] [Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/abs/2412.08519)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Derong Xu, Xiaopeng Li, Zhaocheng Du, Xiangyang Li, Yichao Wang, Yuhao Wang, Qidong Liu, Maolin Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
 
-[8] The Elephant in the Room: Exploring the Role of Neutral Words in Language Model Group-Agnostic Debiasing\
+[9] The Elephant in the Room: Exploring the Role of Neutral Words in Language Model Group-Agnostic Debiasing\
 &nbsp;&nbsp;&nbsp;&nbsp;Xinwei Guo, Jiashi Gao, Junlei Zhou, Jiaxin Zhang, Guanhua Chen, Xiangyu Zhao, Quanying Dai, Haiyan Wu, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
 
-[9] [A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs](https://arxiv.org/abs/2506.14235)\
+[10] [A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs](https://arxiv.org/abs/2506.14235)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yimin Deng, Yuxia Wu, Yejing Wang, Guoshuai Zhao, Li Zhu, Qidong Liu, Derong Xu, Zichuan Fu, Xian Wu, Yefeng Zheng, Xiangyu Zhao, Xueming Qian\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
 
-[10] [Model Merging for Knowledge Editing](http://arxiv.org/abs/2506.12384)\
+[11] [Model Merging for Knowledge Editing](http://arxiv.org/abs/2506.12384)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xian Wu, Guojing Li, Yingying Zhang, Yefeng Zheng, Tianshi Ming, Yejing Wang, Wanyu Wang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 (Industry Track), Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[11] [Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation](https://arxiv.org/pdf/2505.20227)\
+[12] [Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation](https://arxiv.org/pdf/2505.20227)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yi Wen, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, KE LIANG, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[12] [Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework](https://arxiv.org/abs/2408.11312)\
+[13] [Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework](https://arxiv.org/abs/2408.11312)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Chen Zhu, Hengshu Zhu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[13] [LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration](https://arxiv.org/abs/2505.05031)\
+[14] [LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration](https://arxiv.org/abs/2505.05031)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yingyi Zhang, Pengyue Jia, Xianneng Li, Derong Xu, Maolin Wang, Yichao Wang, Zhaocheng Du, Huifeng Guo, Yong Liu, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[14] [Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision](https://arxiv.org/abs/2505.17437)\
+[15] [Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision](https://arxiv.org/abs/2505.17437)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xiao Han, Qidong Liu, Xuetao Wei, Yuxuan Liang\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[15] Put Teacher in Student’s Shoes: Cross-Distillation for Ultra-compact Model Compression Framework\
+[16] Put Teacher in Student’s Shoes: Cross-Distillation for Ultra-compact Model Compression Framework\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Jun Chu, Sicong Xie, Xiaoling Zang, Yao Zhao, Wenliang Zhong, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25 (ADS Track), Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[16] FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation\
+[17] FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yutian Xiao, Binhao Wang, Sheng Zhang, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[17] [Multi-task offline Reinforcement Learning for Online Advertising in Recommender Systems](https://arxiv.org/abs/2506.23090)\
+[18] [Multi-task offline Reinforcement Learning for Online Advertising in Recommender Systems](https://arxiv.org/abs/2506.23090)\
 &nbsp;&nbsp;&nbsp;&nbsp;Langming Liu, Wanyu Wang, Chi Zhang, Bo Li, Hongzhi Yin, Xuetao Wei, Wenbo Su, Bo Zheng, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25(ADS Track), Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
