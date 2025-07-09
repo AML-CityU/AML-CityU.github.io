@@ -196,7 +196,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
 [32] [MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning](https://arxiv.org/abs/2504.00460)\
-&nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDE'25 (PhD Symposium), Proceedings of the 40th IEEE International Conference on Data Engineering, CCF-A
 
 [33] ZeroED: Hybrid Zero-Shot Error Detection with Large Language Model Reasoning\
