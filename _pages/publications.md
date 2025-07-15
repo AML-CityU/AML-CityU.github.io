@@ -63,7 +63,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2025
-[1] PolyFootNet: Extracting Polygonal Building Footprints in Off-Nadir Remote Sensing Images\ 
+[1] PolyFootNet: Extracting Polygonal Building Footprints in Off-Nadir Remote Sensing Images\
 &nbsp;&nbsp;&nbsp;&nbsp;Kai Li, Yupeng Deng, Jingbo Chen, Yu Meng, Zhihao Xi, Junxian Ma, Chenhao Wang, Maolin Wang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;TGRS, IEEE Transactions on Geoscience and Remote Sensing, CCF-B
 
