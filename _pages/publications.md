@@ -63,41 +63,45 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
 ### Publications in 2025
-[1] Mitigating Stereotypes in Text-to-Image Generation: A Novel Perspective of Selective Neural Suppression\
+[1] PolyFootNet: Extracting Polygonal Building Footprints in Off-Nadir Remote Sensing Images\ 
+&nbsp;&nbsp;&nbsp;&nbsp;Kai Li, Yupeng Deng, Jingbo Chen, Yu Meng, Zhihao Xi, Junxian Ma, Chenhao Wang, Maolin Wang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;TGRS, IEEE Transactions on Geoscience and Remote Sensing, CCF-B
+
+[2] Mitigating Stereotypes in Text-to-Image Generation: A Novel Perspective of Selective Neural Suppression\
 &nbsp;&nbsp;&nbsp;&nbsp;Junlei Zhou, Jiashi Gao, Xinwei Guo, Haiyan Wu, Quanying Liu, Xiangyu Zhao, Hongxin Wei, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;MM'25, Proceedings of the 33rd ACM International Conference on Multimedia, CCF-A
 
-[2] [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/pdf/2312.15450)\
+[3] [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM](https://arxiv.org/pdf/2312.15450)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Lixin Su, Pengyue Jia, Xiangyu Zhao, Suqi Cheng, Junfeng Wang, Dawei Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/li2023agent4ranking.html)]
 
-[3] [Comparative Analysis of Greenery Inequalities in New York and London: Social-Economic And Spatial Dimensions](https://doi.org/10.1016/j.ufug.2025.128939)\
+[4] [Comparative Analysis of Greenery Inequalities in New York and London: Social-Economic And Spatial Dimensions](https://doi.org/10.1016/j.ufug.2025.128939)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yequan Hu, Mingze Chen, Yuxuan Cai\
 &nbsp;&nbsp;&nbsp;&nbsp;Urban Forestry & Urban Greening\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/HU2025128939.html)]
 
-[4] AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration\
+[5] AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration\
 &nbsp;&nbsp;&nbsp;&nbsp;Minjiang Huang, Jipeng Qiang, Yi Zhu, Chaowei Zhang, Xiangyu Zhao, Kui Yu\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 (Demo Track), Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[5] [Stepwise Reasoning Error Disruption Attack of LLMs](https://arxiv.org/abs/2412.11934)\
+[6] [Stepwise Reasoning Error Disruption Attack of LLMs](https://arxiv.org/abs/2412.11934)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingyu Peng, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25, Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[6] LLMs Trust Humans More, That's a Problem! Unveiling and Mitigating the Authority Bias in Retrieval-Augmented Generation\
+[7] LLMs Trust Humans More, That's a Problem! Unveiling and Mitigating the Authority Bias in Retrieval-Augmented Generation\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuxuan Li, Xirwei Guo, Jiashi Gao, Guanhua Chen, Xiangyu Zhao, Jiaxin Zhang, Quanying Liu, Haixin Zhang, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25, Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[7] [Training-free LLM Merging for Multi-task Learning](https://arxiv.org/abs/2506.12379)\
+[8] [Training-free LLM Merging for Multi-task Learning](https://arxiv.org/abs/2506.12379)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xian Wu, Yejing Wang, Wanyu Wang, Shanshan Ye, Hongzhi Yin, Yi Chang, Yefeng Zheng, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25, Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[8] [Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/abs/2412.08519)\
+[9] [Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://arxiv.org/abs/2412.08519)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Derong Xu, Xiaopeng Li, Zhaocheng Du, Xiangyang Li, Yichao Wang, Yuhao Wang, Qidong Liu, Maolin Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
 
-[9] The Elephant in the Room: Exploring the Role of Neutral Words in Language Model Group-Agnostic Debiasing\
+[10] The Elephant in the Room: Exploring the Role of Neutral Words in Language Model Group-Agnostic Debiasing\
 &nbsp;&nbsp;&nbsp;&nbsp;Xinwei Guo, Jiashi Gao, Junlei Zhou, Jiaxin Zhang, Guanhua Chen, Xiangyu Zhao, Quanying Dai, Haiyan Wu, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
 
