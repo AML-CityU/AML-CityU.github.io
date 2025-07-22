@@ -176,41 +176,50 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Feng Liu, Lixin Zou, Xiangyu Zhao, Min Tang, Liming Dong, Dan Luo, Xiangyang Luo, Chenliang Li\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'25, Proceedings of the 34th International Joint Conference on Artificial Intelligence, CCF-A
 
-[25] [Data Augmentation on Graphs: A Technical Survey](https://arxiv.org/abs/2212.09970)\
+[25] [Data Augmentation on Graphs: A Technical Survey](https://dl.acm.org/doi/abs/10.1145/3732282)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiajun Zhou, Chenxuan Xie, Shengbo Gong, Zhenyu Wen, Xiangyu Zhao, Qi Xuan, Xiaoniu Yang\
-&nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys
+&nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhou2025data.html)]
 
-[26] Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation\
+[26] [Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3726302.3729911)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xiangyu Zhao, Yejing Wang, Zijian Zhang, Howard Zhong, Chong Chen, Xiang Li, Wei Huang and Feng Tian\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2025bridge.html)]
 
-[27] [PAD: Large Language Models Enhancing Sequential Recommendation](https://arxiv.org/abs/2412.04107)\
+[27] [PAD: Large Language Models Enhancing Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3726302.3730059)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Junwei Pan, Pengyue Jia, Wanyu Wang, Maolin Wang, Zhixiang Feng, Xiaotian Li, Jie Jiang and Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2025pre.html)]
 
-[28] [Generative Auto-Bidding with Value-Guided Explorations](https://arxiv.org/abs/2504.14587)\
+[28] [Generative Auto-Bidding with Value-Guided Explorations](https://dl.acm.org/doi/abs/10.1145/3726302.3729987)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingtong Gao, Yewen Li, Shuai Mao, Peng Jiang, Nan Jiang, Yejing Wang, Qingpeng Cai, Fei Pan, Peng Jiang, Kun Gai, Bo An and Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gao2025generative.html)]
 
-[29] STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation\
+[29] [STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3726302.3730087)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Sheng Zhang, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang and Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2025star.html)]
 
-[30] FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval\
+[30] [FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3726302.3729979)\
 &nbsp;&nbsp;&nbsp;&nbsp;Bohan Hou, Haoqiang Lin, Xuemeng Song, Haokun Wen, Meng Liu, Yupeng Hu and Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/hou2025fire.html)]
 
-[31] Multi-scenario Instance Embedding Learning for Deep Recommender Systems\
+[31] [Multi-scenario Instance Embedding Learning for Deep Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3726302.3730045)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chaohua Yang, Dugang Liu, Xing Tang, Yuwen Fu, Xiuqiang He, Xiangyu Zhao and Zhong Ming\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'25, Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yang2025multi.html)]
 
-[32] [MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning](https://arxiv.org/abs/2504.00460)\
+[32] [MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e680/26FZD52xPPy)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang\
-&nbsp;&nbsp;&nbsp;&nbsp;ICDE'25 (PhD Symposium), Proceedings of the 40th IEEE International Conference on Data Engineering, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ICDE'25 (PhD Symposium), Proceedings of the 40th IEEE International Conference on Data Engineering, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wang2025metalora.html)]
 
-[33] ZeroED: Hybrid Zero-Shot Error Detection with Large Language Model Reasoning\
+[33] [ZeroED: Hybrid Zero-Shot Error Detection with Large Language Model Reasoning](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d126/26FZBu5lOr6)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wei Ni, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Yaoshu Wang, Jianwei Yin\
-&nbsp;&nbsp;&nbsp;&nbsp;ICDE'25, Proceedings of the 40th IEEE International Conference on Data Engineering, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ICDE'25, Proceedings of the 40th IEEE International Conference on Data Engineering, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/ni2025zeroed.html)]
 
 [34] [Uniform Graph Pre-training and Prompting for Transferable Recommendation](https://dl.acm.org/doi/pdf/10.1145/3724392)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qing Yu, Lixin Zou, Xiangyang Luo, Xiangyu Zhao, Chenliang Li\
