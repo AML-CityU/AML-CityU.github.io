@@ -1,5 +1,29 @@
 - date: Aug 2025 
-  headline: "Our paper, 'Put Teacher in Student’s Shoes: Cross-Distillation for Ultra-compact Model Compression Framework' was awarded KDD 2025 Best Paper Award Runner-Up. Congratulations to Maolin Wang!" 
+  headline: "Our paper 'Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation' got accepted by CIKM' 25. Congratulations to Yingyi Zhang!"
+
+- date: Aug 2025 
+  headline: "Our paper 'SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems' got accepted by CIKM' 25. Congratulations to Pengyue Jia, Xiaopeng Li, Yuhao Wang, and Qidong Liu!"
+
+- date: Aug 2025 
+  headline: "Our paper 'Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark' got accepted by CIKM' 25. Congratulations to Xiaopeng Li, Jingtong Gao, Pengyue Jia, Yejing Wang, and Yuhao Wang!"
+
+- date: Aug 2025 
+  headline: "Our paper 'PAnDA: Combating Negative Augmentation via Large Language Models for User Cold-Start Recommendations' got accepted by CIKM' 25. Congratulations to Yantong Du!"
+
+- date: Aug 2025 
+  headline: "Our paper 'Empowering Denoising Sequential Recommendation with Large Language Model Embeddings' got accepted by CIKM' 25. Congratulations to Tongzhou Wu, Yuhao Wang, Maolin Wang, and Chi Zhang!"
+
+- date: Aug 2025 
+  headline: "Our paper 'Contextual Attention Modulation: Towards Efficient Multi-Task Adaptation in Large Language Models' got accepted by CIKM' 25. Congratulations to Dayan Pan and Xiao Han!"
+
+- date: Aug 2025 
+  headline: "Our paper 'SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation' got accepted by CIKM' 25. Congratulations to Binhao Wang, Maolin Wang, Zhiqi Li, Tianshuo Wei, and Ruocheng Guo!"
+
+- date: Aug 2025 
+  headline: "Our paper 'Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs' got accepted by CIKM' 25. Congratulations to Yuhao Wang, Xinhang Li, and Maolin Wang!"
+
+- date: Aug 2025 
+  headline: "Our paper 'Put Teacher in Student’s Shoes: Cross-Distillation for Ultra-compact Model Compression Framework' was awarded KDD 2025 Best Paper Award Runner-Up. Congratulations to Maolin Wang!" 
 
 - date: July 2025 
   headline: "Our paper 'Tackling Data Heterogeneity in Federated Time Series Forecasting' got accepted by SCIE. Congratulations!" 
