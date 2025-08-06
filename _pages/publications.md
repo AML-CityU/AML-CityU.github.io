@@ -65,35 +65,35 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Publications in 2025
 [1] Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Yue Que, Yingyi Zhang, Xiangyu Zhao and Chen Ma\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
 [2] SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Zhaocheng Du, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo and Ruiming Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
 [3] Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Jingtong Gao, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Huifeng Guo and Ruiming Tang\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
 [4] PAnDA: Combating Negative Augmentation via Large Language Models for User Cold-Start Recommendations\
 &nbsp;&nbsp;&nbsp;&nbsp;Yantong Du, Rui Chen, Xiangyu Zhao, Qilong Han and Kai Qin\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
 [5] Empowering Denoising Sequential Recommendation with Large Language Model Embeddings\
 &nbsp;&nbsp;&nbsp;&nbsp;Tongzhou Wu, Yuhao Wang, Maolin Wang, Chi Zhang and Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
 [6] Contextual Attention Modulation: Towards Efficient Multi-Task Adaptation in Large Language Models\
 &nbsp;&nbsp;&nbsp;&nbsp;Dayan Pan, Zhaoyang Fu, Jingyuan Wang, Xiao Han, Yue Zhu and Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
 [7] SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Binhao Wang, Yutian Xiao, Maolin Wang, Zhiqi Li, Tianshuo Wei, Ruocheng Guo and Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
 [8] Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Junwei Pan, Xinhang Li, Maolin Wang, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang and Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
 [9] [Tackling Data Heterogeneity in Federated Time Series Forecasting](https://arxiv.org/abs/2411.15716)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wei Yuan, Guanhua Ye, Xiangyu Zhao, Quoc Viet Hung Nguyen, Yang Cao, Hongzhi Yin\
