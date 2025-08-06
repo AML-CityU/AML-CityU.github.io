@@ -95,6 +95,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Junwei Pan, Xinhang Li, Maolin Wang, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang and Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
+[9] [ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph](https://arxiv.org/pdf/2503.15990)\
+&nbsp;&nbsp;&nbsp;&nbsp;Langming Liu, Haibin Chen, Yuhao Wang, Yujin Yuan, Shilei Liu, Wenbo Su, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper Track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
+
 [9] [Tackling Data Heterogeneity in Federated Time Series Forecasting](https://arxiv.org/abs/2411.15716)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wei Yuan, Guanhua Ye, Xiangyu Zhao, Quoc Viet Hung Nguyen, Yang Cao, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;SCIS, SCIENCE CHINA Information Sciences, CCF-B
