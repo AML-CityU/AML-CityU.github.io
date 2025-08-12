@@ -103,7 +103,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Langming Liu, Haibin Chen, Yuhao Wang, Yujin Yuan, Shilei Liu, Wenbo Su, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper Track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[11] Prompt Tuning as User Inherent Profile Inference Machine\
+[11] [Prompt Tuning as User Inherent Profile Inference Machine](https://arxiv.org/abs/2408.06577)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yusheng Lu, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Weiwen Liu, Yichao Wang, Huifeng Guo, Ruiming Tang, Zhenhua Dong, Yongrui Duan\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Applied Research Track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
