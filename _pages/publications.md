@@ -150,7 +150,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Derong Xu, Xiaopeng Li, Zhaocheng Du, Xiangyang Li, Yichao Wang, Yuhao Wang, Qidong Liu, Maolin Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
 
-[21] The Elephant in the Room: Exploring the Role of Neutral Words in Language Model Group-Agnostic Debiasing\
+[21] [The Elephant in the Room: Exploring the Role of Neutral Words in Language Model Group-Agnostic Debiasing](https://aclanthology.org/2025.findings-acl.1044/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xinwei Guo, Jiashi Gao, Junlei Zhou, Jiaxin Zhang, Guanhua Chen, Xiangyu Zhao, Quanying Dai, Haiyan Wu, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
 
@@ -282,7 +282,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yu2025uniform.html)]
 
-[48] [Dual Test-time Training for Out-of-distribution Recommender System](https://dl.acm.org/doi/10.1109/TKDE.2025.3548160)\
+[48] [Dual Test-time Training for Out-of-distribution Recommender System](https://store.computer.org/csdl/journal/tk/2025/06/10925929/25588MZaEbS)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xihong Yang, Yiqi Wang, Jin Chen, Wenqi Fan, Xiangyu Zhao, En Zhu, Xinwang Liu, Defu Lian\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yang2024dual.html)]
