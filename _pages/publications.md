@@ -415,7 +415,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/yang2024multi.html)]
 
-[9] GPRec: Bi-level User Modeling for Deep Recommender Systems\
+[9] [GPRec: Bi-level User Modeling for Deep Recommender Systems](https://ieeexplore.ieee.org/document/10884163)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Dong Xu, Xiangyu Zhao, Zhiren Mao, Peng Xiang, Ling Yan, Yao Hu, Zijian Zhang, Xuetao Wei, Qidong Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDM'24, Proceedings of the 24th International Conference on Data Mining, CCF-B
 
