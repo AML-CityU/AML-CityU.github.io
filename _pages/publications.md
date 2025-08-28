@@ -64,7 +64,6 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2025
 [1] Twice the Gradient, Twice the Privacy Risk in Federated Learning? A Case Study of Federated Recommendation Systems\
-&nbsp;&nbsp;&nbsp;&nbsp;\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDM, Proceedings of the 25th IEEE International Conference on Data Mining, CCF-B
 
 [1] CTKGRec: A Context-Aware Temporal Knowledge Graph Reasoning Model for Next POI Recommendation\
