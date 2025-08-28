@@ -64,9 +64,11 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2025
 [1] Towards Propagation-aware Representation Learning for Supervised Social Media Graph Analytics\
+&nbsp;&nbsp;&nbsp;&nbsp;Wei Jiang, Tong Chen, Wei Yuan, Xiangyu Zhao, Quoc Viet Hung Nguyen, and Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDM, Proceedings of the 25th IEEE International Conference on Data Mining, CCF-B
 
 [2] Twice the Gradient, Twice the Privacy Risk in Federated Learning? A Case Study of Federated Recommendation Systems\
+&nbsp;&nbsp;&nbsp;&nbsp;Zhen Yu Deng, Ying Liu, Ming Tang, and Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDM, Proceedings of the 25th IEEE International Conference on Data Mining, CCF-B
 
 [3] CTKGRec: A Context-Aware Temporal Knowledge Graph Reasoning Model for Next POI Recommendation\
