@@ -233,6 +233,12 @@
   email: Southamptonlbw@outlook.com
   number_educ: 0
   website: https://jhvghn.github.io/
+- name: Fangyu Hong
+  photo: fangyuhong.jpg
+  info: CityU-CSU Joint-PhD
+  email: fangyuhong@csu.edu.cn
+  number_educ: 0
+  website: https://hong-fangyu.github.io/
 - name: Jiangping Lv
   photo: jiangpinglv.jpg
   info: Part-time PhD-Data Science
@@ -245,9 +251,3 @@
   email: jill.cyleung@gmail.com
   number_educ: 0
   website: https://www.jillcyleung.tech/
-- name: Fangyu Hong
-  photo: fangyuhong.jpg
-  info: CityU-CSU Joint-PhD
-  email: fangyuhong@csu.edu.cn
-  number_educ: 0
-  website: https://hong-fangyu.github.io/
