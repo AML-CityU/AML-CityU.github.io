@@ -254,7 +254,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#research-fellow-and-postdoc-memb
 
 ## MS Students (CityU 1-year MS Program)
 
-### Enrollment Date: 2024
+### Enrollment Date: 2025
 
 {% assign number_printed = 0 %}
 {% for member in site.data.ms25 %}
