@@ -257,7 +257,7 @@ Jump to [Faculty](#faculty), [PostDoc Members](#research-fellow-and-postdoc-memb
 ### Enrollment Date: 2024
 
 {% assign number_printed = 0 %}
-{% for member in site.data.ms24 %}
+{% for member in site.data.ms25 %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
