@@ -64,7 +64,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2025
 [1] Cross-Task Collaborative Meta-Learning for Cold-Start Recommendations\
-&nbsp;&nbsp;&nbsp;&nbsp;\
+&nbsp;&nbsp;&nbsp;&nbsp;Yantong Du, Rui Chen, Qiaoyu Tan, Qilong Han, Shenjie Wang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, Transactions on Knowledge and Data Engineering, CCF-A
 
 [2] Towards Propagation-aware Representation Learning for Supervised Social Media Graph Analytics\
