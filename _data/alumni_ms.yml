@@ -112,12 +112,7 @@
 - name: Sheng Zhang
   year: 2023-2024
   photo: shengzhang.jpg
-  info: Mentor - Maolin Wang, first author - RecSys24, KDD25, Outstanding Academic Performance Award, Outstanding Research Project Award, current position - Assistant Engineer at Institue of Physics, Chinese Academy of Sciences
-  email: szhang844-c@my.cityu.edu.hk
-  number_educ: 0
-- name: Jiawei Liu
-  year: 2023-2024
-  photo: jiaweiliu.jpg
+  info: Mentor - Maolin Wang, first author - RecSys24, KDD25, Outstanding Academic Performance Award, Outstanding Research Project Award, current position - PhD at AML
   info: Mentor - Yejing Wang, Outstanding Academic Performance Award, Outstanding Dissertation Award, current position - PhD at HKBU
   email: jiawliu7-c@my.cityu.edu.hk
   number_educ: 0
@@ -176,7 +171,7 @@
 - name: Xuhui Chen
   year: 2024-2025
   photo: chenxuhui.jpg
-  info: Mentor - Maolin Wang
+  info: Mentor - Maolin Wang, Outstanding Performance Award and Outstanding Academic Performance Award, current position - PhD at HIT (SZ) 
   email: xuhuichen7-c@my.cityu.edu.hk
   number_educ: 0
 - name: Yuqing Fu
@@ -194,13 +189,13 @@
 - name: Binhao Wang
   year: 2024-2025
   photo: wangbinhao.jpg
-  info: Mentor - Maolin Wang
+  info: Mentor - Maolin Wang, current position - PhD at AML
   email: binhawang2-c@my.cityu.edu.hk
   number_educ: 0
 - name: Tianshuo Wei
   year: 2024-2025
   photo: weitianshuo.jpg
-  info: Mentor - Maolin Wang
+  info: Mentor - Maolin Wang, Outstanding Dissertation Award and Outstanding Performance Award, One paper Accepted by IJCAI, current position - RA at ACE Lab, CityU
   email: tianshwei2-c@my.cityu.edu.hk
   number_educ: 0
 - name: Jiajun Zhang
@@ -230,14 +225,14 @@
 - name: Bowen Yu
   year: 2024-2025
   photo: yubowen.jpg
-  info: Mentor - Maolin Wang
+  info: Mentor - Maolin Wang, current position - PhD student at AML
   email: bowyu2-c@my.cityu.edu.hk
   number_educ: 0
 
 - name: Zhiqi Li
   year: 2024-2025
   photo: lizhiqi.jpg
-  info: Mentor - Maolin Wang
+  info: Mentor - Maolin Wang, current position - RA at FDU
   email: zhiqli6-c@my.cityu.edu.hk
   number_educ: 0
 - name: Weichen Chen
@@ -267,7 +262,7 @@
 - name: Linjie Mi
   year: 2024-2025
   photo: milinjie.jpg
-  info: Mentor - Maolin Wang
+  info: Mentor - Maolin Wang, Outstanding Performance Award, current position - RA at SJTU
   email: linjiemi2-c@my.cityu.edu.hk
   number_educ: 0
 - name: Xiaoying Chen
@@ -285,7 +280,7 @@
 - name: Yanxin Chen
   year: 2024-2025
   photo: chenyanxin.jpg
-  info: Mentor - Maolin Wang
+  info: Mentor - Maolin Wang, Outstanding Performance Award, Next position - PhD at SUSTC 
   email: ychen3447-c@my.cityu.edu.hk
   number_educ: 0
 - name: Hongshi Liu
