@@ -76,7 +76,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'25, Proceedings of the 39th Conference on Neural Information Processing Systems, CCF-A
 
 [4] Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning\
-&nbsp;&nbsp;&nbsp;&nbsp;wenlin zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'25, Proceedings of the 39th Conference on Neural Information Processing Systems, CCF-A
 
 [5] Cross-Task Collaborative Meta-Learning for Cold-Start Recommendations\
@@ -191,7 +191,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'25 (Industry Track), Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, CCF-A
 
 [32] [Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation](https://dl.acm.org/doi/10.1145/3711896.3737043)\
-&nbsp;&nbsp;&nbsp;&nbsp;Yi Wen, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, KE LIANG, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;Yi Wen, Yue Liu, Derong Xu, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/wen2025domaingap.html)]
 
@@ -642,7 +642,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Publications in 2023
 
 [1] [On the Opportunities of Green Computing: A Survey](https://arxiv.org/abs/2311.00447)\
-&nbsp;&nbsp;&nbsp;&nbsp;You Zhou, Xiujing Lin, Xiang Zhang, Maolin Wang, Gangwei Jiang, Huakang Lu, Yupeng Wu, Kai Zhang, Zhe Yang, Kehang Wang, Yongduo Sui, Fengwei Jia, Zuoli Tang, Yao Zhao, Hongxuan Zhang, Tiannuo Yang, Weibo Chen, Yunong Mao, Yi Li, De Bao, Yu Li, Hongrui Liao, Ting Liu, Jingwen Liu, Jinchi Guo, Jin Zhao, Xiangyu Zhao, Ying WEI, Hong Qian, Qi Liu, Xiang Wang, Wai Kin (Victor)Chan, Chenliang Li, Yusen Li, Shiyu Yang, Jining Yan, Chao Mou, Shuai Han, Wuxia Jin, Guannan Zhang, Xiaodong Zeng\
+&nbsp;&nbsp;&nbsp;&nbsp;You Zhou, Xiujing Lin, Xiang Zhang, Maolin Wang, Gangwei Jiang, Huakang Lu, Yupeng Wu, Kai Zhang, Zhe Yang, Kehang Wang, Yongduo Sui, Fengwei Jia, Zuoli Tang, Yao Zhao, Hongxuan Zhang, Tiannuo Yang, Weibo Chen, Yunong Mao, Yi Li, De Bao, Yu Li, Hongrui Liao, Ting Liu, Jingwen Liu, Jinchi Guo, Jin Zhao, Xiangyu Zhao, Ying Wei, Hong Qian, Qi Liu, Xiang Wang, Wai Kin (Victor)Chan, Chenliang Li, Yusen Li, Shiyu Yang, Jining Yan, Chao Mou, Shuai Han, Wuxia Jin, Guannan Zhang, Xiaodong Zeng\
 &nbsp;&nbsp;&nbsp;&nbsp;arxiv preprint\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhou2023opportunities.html)]
 
