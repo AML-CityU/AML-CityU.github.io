@@ -72,7 +72,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'25, Proceedings of the 39th Conference on Neural Information Processing Systems, CCF-A
 
 [3] Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning\
-&nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, ZIMO ZHAO, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'25, Proceedings of the 39th Conference on Neural Information Processing Systems, CCF-A
 
 [4] Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning\
