@@ -123,7 +123,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Binhao Wang, Yutian Xiao, Maolin Wang, Zhiqi Li, Tianshuo Wei, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[16] Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs\
+[16] [Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs](http://arxiv.org/abs/2509.02017)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Junwei Pan, Xinhang Li, Maolin Wang, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
