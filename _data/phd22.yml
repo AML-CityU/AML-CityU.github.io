@@ -251,6 +251,24 @@
   email: binhawang2-c@my.cityu.edu.hk
   number_educ: 0
   website:
+- name: Zhiyu Zhao
+  photo: zhaozhiyu.jpg
+  info: PhD-Data Science
+  email: zhaozhiyu1@outlook.com
+  number_educ: 0
+  website:
+- name: Haotian Nan
+  photo: haotiannan.jpg
+  info: PhD-Data Science
+  email: nanht2002@gmail.com
+  number_educ: 0
+  website: https://github.com/Tonynan-2002
+- name: Kaifeng Guo
+  photo: kaifengguo.jpg
+  info: PhD-Data Science
+  email: kendeguo@gmail.com
+  number_educ: 0
+  website:
 #- name: Jill ChiuYee Leung
 #  photo: chaoxiliang.jpg
 #  info: Part-time PhD-Data Science
