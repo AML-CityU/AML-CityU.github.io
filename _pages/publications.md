@@ -95,7 +95,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Qihong Pan, Hong Zheng, Zhenzhen Zhao, Guojiang Shen, Xiangyu Zhao, Xiangjie Kong\
 &nbsp;&nbsp;&nbsp;&nbsp;ESWA, Expert Systems With Applications, CCF-C
 
-[9] Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation\
+[9] [Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation](https://arxiv.org/abs/2510.04502)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yue Que, Yingyi Zhang, Xiangyu Zhao, Chen Ma\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
@@ -111,7 +111,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Yantong Du, Rui Chen, Xiangyu Zhao, Qilong Han, Kai Qin\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[13] Empowering Denoising Sequential Recommendation with Large Language Model Embeddings\
+[13] [Empowering Denoising Sequential Recommendation with Large Language Model Embeddings](https://arxiv.org/abs/2510.04239)\
 &nbsp;&nbsp;&nbsp;&nbsp;Tongzhou Wu, Yuhao Wang, Maolin Wang, Chi Zhang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
