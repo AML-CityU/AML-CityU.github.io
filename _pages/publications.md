@@ -103,7 +103,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Zhaocheng Du, Yichao Wang, Xiangyu Zhao, Xiaopeng Li, Yuhao Wang, Qidong Liu, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[11] Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark\
+[11] [Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](https://arxiv.org/abs/2412.17374)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Jingtong Gao, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
