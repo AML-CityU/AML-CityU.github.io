@@ -12,7 +12,7 @@ permalink: /publications/
 You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ). Please find our open-sourced works on our [Lab GitHub](https://github.com/Applied-Machine-Learning-Lab).
 
 ### Tutorials
-[1] Learning from Spatio-Temporal Data in the LLM Era: Foundations, Models, and Emerging Trends\
+[1] [Learning from Spatio-Temporal Data in the LLM Era: Foundations, Models, and Emerging Trends](https://doi.org/10.1145/3748777.3748812)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Xiao Han, Xiangyu Zhao, Chenjuan Guo, Bin Yang\
 &nbsp;&nbsp;&nbsp;&nbsp;SSTD'25, Proceedings of the 19th International Symposium on Spatial and Temporal Data
 
