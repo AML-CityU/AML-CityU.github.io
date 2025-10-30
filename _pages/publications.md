@@ -65,7 +65,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Publications in 2025
 [1] Workshop on the Next-Generation Recommender Systems and LLMs\
 &nbsp;&nbsp;&nbsp;&nbsp;Fei Sun, Haoxuan Li, Jian Wu, Julian McAuley, Ji Liu, Junwei Pan, Jiakai Tang, Lina Yao, Lexing Xie, Xiangyu Zhao, Yeqiu Yang\
-&nbsp;&nbsp;&nbsp;&nbsp;WSDM'26, Proceedings of the 19th ACM International Conference on Web Search and Data Mining, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;WSDM'26, Proceedings of the 19th ACM International Conference on Web Search and Data Mining, CCF-B
 
 [2] UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xun Zhou, Liang Han, Xuetao Wei, Yuxuan Liang\
