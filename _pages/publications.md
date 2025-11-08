@@ -62,6 +62,27 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
+### Publications in 2026
+[1] Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization\
+&nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, Xiangyu Zhao, Zijian Zhang, Xuetao Wei, James Jianqiao Yu\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Oral), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
+
+[2] Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval\
+&nbsp;&nbsp;&nbsp;&nbsp;Yingyi Zhang, Pengyue Jia, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Oral), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
+
+[3] Renormalization Group Guided Tensor Network Structure Search\
+&nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Bowen Yu, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
+
+[4] Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection\
+&nbsp;&nbsp;&nbsp;&nbsp;Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, Pengyue Jia, Wei Wang, Chengming Li, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
+
+[5] RoSA: RoPE-aware Selective Adaptation for Efficient LLM Fine-Tuning\
+&nbsp;&nbsp;&nbsp;&nbsp;Dayan Pan, Jingyuan Wang, Yilong Zhou, Jiawei Cheng, Pengyue Jia, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
+
 ### Publications in 2025
 [1] UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xun Zhou, Liang Han, Xuetao Wei, Yuxuan Liang\
