@@ -12,10 +12,9 @@ AML Lab is a research group in [Department of Data Science](https://www.sdsc.cit
 
 We have multiple PhD, Joint PhD, Self-financed PhD, Part-time PhD, Postdoc, RA and Visiting positions who are interested in pursuing data mining and machine learning research and applications, especially
 
-- Personalization, Recommender System, Online Advertising, Search Engine, and Information Retrieval
-- Urban Computing, Smart City, GeoAI, Spatio-Temporal Data Analysis, and Location-Based Social Networks
-- Large Language Model, Reinforcement Learning, AutoML, AGI, Graph Learning, Trustworthy AI, and Multimodal ML
-- AI + X: Education, Healthcare, Carbon Neutral, Social Computing, E-commerce, Finance, and Ecosystem
+- Personalization, Recommender System, Search Engine, Online Advertising, and Information Retrieval
+- Large Language Model, AGI, AutoML, Reinforcement Learning, Trustworthy AI, and Multimodal ML
+- AI + X: Healthcare, Urban Computing & Smart City, Science, and Education
 
 
 ***
