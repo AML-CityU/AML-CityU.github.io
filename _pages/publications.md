@@ -66,7 +66,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [1] Automated information flow selection for multi-scenario multi-task recommendation.\
 &nbsp;&nbsp;&nbsp;&nbsp;Chaohua Yang, Dugang Liu*, Shiwei Li, Yuwen Fu, Xing Tang, Weihong Luo, Xiangyu Zhao, Xiuqiang He, Zhong Ming\
-&nbsp;&nbsp;&nbsp;&nbsp;WSDM'26, The 19th ACM International Conference on Web Search and Data Mining, CCF-B
+&nbsp;&nbsp;&nbsp;&nbsp;WSDM’26, Proceedings of the 19th ACM International Conference on Web Search and Data Mining, CCF-B
 
 [2] Towards On-Device Personalization: Cloud-device Collaborative Data Augmentation for Efficient On-device Language Model\
 &nbsp;&nbsp;&nbsp;&nbsp;Zhaofeng Zhong, Wei Yuan, Liang Qu, Tong Chen, Hao Wang, Xiangyu Zhao, Hongzhi Yin\
