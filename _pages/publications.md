@@ -64,8 +64,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2026
 
-[1] Automated information flow selection for multi-scenario multi-task recommendation.\
-&nbsp;&nbsp;&nbsp;&nbsp;Chaohua Yang, Dugang Liu*, Shiwei Li, Yuwen Fu, Xing Tang, Weihong Luo, Xiangyu Zhao, Xiuqiang He, Zhong Ming\
+[1] Automated Information Flow Selection for Multi-Scenario Multi-Task Recommendation\
+&nbsp;&nbsp;&nbsp;&nbsp;Chaohua Yang, Dugang Liu, Shiwei Li, Yuwen Fu, Xing Tang, Weihong Luo, Xiangyu Zhao, Xiuqiang He, Zhong Ming\
 &nbsp;&nbsp;&nbsp;&nbsp;WSDM’26, Proceedings of the 19th ACM International Conference on Web Search and Data Mining, CCF-B
 
 [2] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
@@ -439,6 +439,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Zhaopeng Qiu, Xiangyu Zhao, Xian Wu, Zijian Zhang, Tong Xu, Feng Tian\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2024contrastive.html)]
+
+
 ### Publications in 2024
 
 [1] [LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation](https://neurips.cc/virtual/2024/poster/93061)\
