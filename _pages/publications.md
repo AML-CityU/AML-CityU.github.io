@@ -79,6 +79,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 [4] Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System\
 &nbsp;&nbsp;&nbsp;&nbsp;Yupeng Xu, Huixun Jia, Maolin Wang, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, Xiaodong Sun\
 &nbsp;&nbsp;&nbsp;&nbsp;Nature npj Digital Medicine, SCI Q1 journal, Impact Factor 15.1
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system at Shanghai General Hospital</font>
 
 [5] Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, Xiangyu Zhao, Zijian Zhang, Xuetao Wei, James Jianqiao Yu\
