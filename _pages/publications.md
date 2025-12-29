@@ -154,7 +154,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Yantong Du, Rui Chen, Xiangyu Zhao, Qilong Han, Kai Qin\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[14] [Empowering Denoising Sequential Recommendation with Large Language Model Embeddings](https://arxiv.org/abs/2510.04239)\
+[14] [Empowering Denoising Sequential Recommendation with Large Language Model Embeddings](https://doi.org/10.1145/3746252.3761427)\
 &nbsp;&nbsp;&nbsp;&nbsp;Tongzhou Wu, Yuhao Wang, Maolin Wang, Chi Zhang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
@@ -166,15 +166,15 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Binhao Wang, Yutian Xiao, Maolin Wang, Zhiqi Li, Tianshuo Wei, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[17] [Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs](http://arxiv.org/abs/2509.02017)\
+[17] [Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs](https://doi.org/10.1145/3746252.3761169)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Junwei Pan, Xinhang Li, Maolin Wang, Yuan Wang, Yue Liu, Dapeng Liu, Jie Jiang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[18] [ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph](https://arxiv.org/pdf/2503.15990)\
+[18] [ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph](https://doi.org/10.1145/3746252.3761613)\
 &nbsp;&nbsp;&nbsp;&nbsp;Langming Liu, Haibin Chen, Yuhao Wang, Yujin Yuan, Shilei Liu, Wenbo Su, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Resource Paper Track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[19] [Prompt Tuning as User Inherent Profile Inference Machine](https://arxiv.org/abs/2408.06577)\
+[19] [Prompt Tuning as User Inherent Profile Inference Machine](https://doi.org/10.1145/3746252.3761574)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yusheng Lu, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Weiwen Liu, Yichao Wang, Huifeng Guo, Ruiming Tang, Zhenhua Dong, Yongrui Duan\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25 (Applied Research Track), Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system</font>
@@ -188,7 +188,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;TGRS, IEEE Transactions on Geoscience and Remote Sensing, CCF-B\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/11083659.html)]
 
-[22] Mitigating Stereotypes in Text-to-Image Generation: A Novel Perspective of Selective Neural Suppression\
+[22] [Mitigating Stereotypes in Text-to-Image Generation: A Novel Perspective of Selective Neural Suppression](https://doi.org/10.1145/3746027.3755293)\
 &nbsp;&nbsp;&nbsp;&nbsp;Junlei Zhou, Jiashi Gao, Xinwei Guo, Haiyan Wu, Quanying Liu, Xiangyu Zhao, Hongxin Wei, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;MM'25, Proceedings of the 33rd ACM International Conference on Multimedia, CCF-A
 
@@ -296,7 +296,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;TIST, ACM Transactions on Intelligent Systems and Technology\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/guo2025improving.html)]
 
-[45] [DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](https://arxiv.org/abs/2507.04671)\
+[45] [DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation](https://doi.org/10.24963/ijcai.2025/705)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Tianshuo Wei, Sheng Zhang, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'25, Proceedings of the 34th International Joint Conference on Artificial Intelligence, CCF-A
 
