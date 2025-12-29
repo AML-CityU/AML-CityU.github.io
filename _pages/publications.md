@@ -64,35 +64,39 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2026
 
-[1] Automated Information Flow Selection for Multi-Scenario Multi-Task Recommendation\
+[1] A Survey of Personalization: From RAG to Agent\
+&nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Xiangyang Li, Zhaocheng Du, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
+
+[2] Automated Information Flow Selection for Multi-Scenario Multi-Task Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Chaohua Yang, Dugang Liu, Shiwei Li, Yuwen Fu, Xing Tang, Weihong Luo, Xiangyu Zhao, Xiuqiang He, Zhong Ming\
 &nbsp;&nbsp;&nbsp;&nbsp;WSDM’26, Proceedings of the 19th ACM International Conference on Web Search and Data Mining, CCF-B
 
-[2] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
+[3] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Benchmark Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[3] Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System\
+[4] Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System\
 &nbsp;&nbsp;&nbsp;&nbsp;Yupeng Xu, Huixun Jia, Maolin Wang, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, Xiaodong Sun\
 &nbsp;&nbsp;&nbsp;&nbsp;Nature npj Digital Medicine, SCI Q1 journal, Impact Factor 15.1
 
-[4] Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization\
+[5] Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, Xiangyu Zhao, Zijian Zhang, Xuetao Wei, James Jianqiao Yu\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Oral), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
-[5] Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval\
+[6] Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;Yingyi Zhang, Pengyue Jia, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Oral), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
-[6] Renormalization Group Guided Tensor Network Structure Search\
+[7] Renormalization Group Guided Tensor Network Structure Search\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Bowen Yu, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
-[7] Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection\
+[8] Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, Pengyue Jia, Wei Wang, Chengming Li, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
-[8] RoSA: RoPE-aware Selective Adaptation for Efficient LLM Fine-Tuning\
+[9] RoSA: RoPE-aware Selective Adaptation for Efficient LLM Fine-Tuning\
 &nbsp;&nbsp;&nbsp;&nbsp;Dayan Pan, Jingyuan Wang, Yilong Zhou, Jiawei Cheng, Pengyue Jia, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
@@ -130,7 +134,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Zhenyu Deng, Ying Liu, Ming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDM'25, Proceedings of the 25th IEEE International Conference on Data Mining, CCF-B
 
-[9] CTKGRec: A Context-Aware Temporal Knowledge Graph Reasoning Model for Next POI Recommendation\
+[9] [CTKGRec: A Context-Aware Temporal Knowledge Graph Reasoning Model for Next POI Recommendation](https://doi.org/10.1016/j.eswa.2025.129224)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qihong Pan, Hong Zheng, Zhenzhen Zhao, Guojiang Shen, Xiangyu Zhao, Xiangjie Kong\
 &nbsp;&nbsp;&nbsp;&nbsp;ESWA, Expert Systems With Applications, CCF-C
 
@@ -146,7 +150,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Jingtong Gao, Pengyue Jia, Xiangyu Zhao, Yichao Wang, Wanyu Wang, Yejing Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[13] PAnDA: Combating Negative Augmentation via Large Language Models for User Cold-Start Recommendations\
+[13] [PAnDA: Combating Negative Augmentation via Large Language Models for User Cold-Start Recommendations](https://doi.org/10.1145/3746252.3761080)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yantong Du, Rui Chen, Xiangyu Zhao, Qilong Han, Kai Qin\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
@@ -154,11 +158,11 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Tongzhou Wu, Yuhao Wang, Maolin Wang, Chi Zhang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[15] Contextual Attention Modulation: Towards Efficient Multi-Task Adaptation in Large Language Models\
+[15] [Contextual Attention Modulation: Towards Efficient Multi-Task Adaptation in Large Language Models](https://doi.org/10.1145/3746252.3761289)\
 &nbsp;&nbsp;&nbsp;&nbsp;Dayan Pan, Zhaoyang Fu, Jingyuan Wang, Xiao Han, Yue Zhu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[16] SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation\
+[16] [SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation](https://doi.org/10.1145/3746252.3760999)\
 &nbsp;&nbsp;&nbsp;&nbsp;Binhao Wang, Yutian Xiao, Maolin Wang, Zhiqi Li, Tianshuo Wei, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'25, Proceedings of the 34th ACM International Conference on Information and Knowledge Management, CCF-B
 
