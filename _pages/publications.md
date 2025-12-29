@@ -106,7 +106,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Zhaofeng Zhong, Wei Yuan, Liang Qu, Tong Chen, Hao Wang, Xiangyu Zhao, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;ACM Transactions on Intelligent Systems and Technology (TIST), 2026, CCF-A
 
-[2] UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces\
+[2] [UniTraj: Learning a Universal Trajectory Foundation Model from Billion-Scale Worldwide Traces](https://openreview.net/forum?id=IGJHOcoQKp)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xun Zhou, Liang Han, Xuetao Wei, Yuxuan Liang\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'25, Proceedings of the 39th Conference on Neural Information Processing Systems, CCF-A
 
