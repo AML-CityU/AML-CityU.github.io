@@ -110,27 +110,27 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, Xun Zhou, Liang Han, Xuetao Wei, Yuxuan Liang\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'25, Proceedings of the 39th Conference on Neural Information Processing Systems, CCF-A
 
-[3] GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization\
+[3] [GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization](https://openreview.net/forum?id=Zjq1CkKDGt)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Seongheon Park, Song Gao, Xiangyu Zhao, Yixuan Li\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'25, Proceedings of the 39th Conference on Neural Information Processing Systems, CCF-A
 
-[4] Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning\
+[4] [Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning](https://neurips.cc/virtual/2025/loc/san-diego/poster/120148)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiao Han, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'25, Proceedings of the 39th Conference on Neural Information Processing Systems, CCF-A
 
-[5] Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning\
+[5] [Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning](https://openreview.net/forum?id=h3LlJ6Bh4S)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, Yingyi Zhang, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;NeurIPS'25, Proceedings of the 39th Conference on Neural Information Processing Systems, CCF-A
 
-[6] Cross-Task Collaborative Meta-Learning for Cold-Start Recommendations\
+[6] [Cross-Task Collaborative Meta-Learning for Cold-Start Recommendations](https://doi.org/10.1109/TKDE.2025.3613366)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yantong Du, Rui Chen, Qiaoyu Tan, Qilong Han, Shenjie Wang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, Transactions on Knowledge and Data Engineering, CCF-A
 
-[7] Towards Propagation-aware Representation Learning for Supervised Social Media Graph Analytics\
+[7] [Towards Propagation-aware Representation Learning for Supervised Social Media Graph Analytics](https://arxiv.org/abs/2509.01124)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wei Jiang, Tong Chen, Wei Yuan, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDM'25, Proceedings of the 25th IEEE International Conference on Data Mining, CCF-B
 
-[8] Twice the Gradient, Twice the Privacy Risk in Federated Learning? A Case Study of Federated Recommendation Systems\
+[8] [Twice the Gradient, Twice the Privacy Risk in Federated Learning? A Case Study of Federated Recommendation Systems](10.1109/IJCNN64981.2025.11227362)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zhenyu Deng, Ying Liu, Ming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDM'25, Proceedings of the 25th IEEE International Conference on Data Mining, CCF-B
 
