@@ -23,3 +23,4 @@ Applicants from an institution where the language of teaching is not English sho
 - Other test scores that may be regarded as equivalent to TOEFL 550 (paper-based test) or 79 (Internet-based test); or 59 (revised Paper-delivered test).
 
 Note: College English Test (CET) is NOT accepted as an equivalent English proficiency test for Hong Kong PhD Fellowship Scheme (HKPFS). For applicants with strong academic and research potential who have only taken CET-6 with a minimum score of 490, special consideration may be made on a case-by-case basis during normal round admission.
+

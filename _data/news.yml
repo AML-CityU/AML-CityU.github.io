@@ -1,3 +1,6 @@
+- date: Dec 2025 
+  headline: "Our paper 'Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions' got accepted by ACM Computing Surveys (CSUR, IF 26.3). Congratulations to Maolin Wang, Yingyi Zhang, and Bowen Yu!"
+
 - date: Nov 2025 
   headline: "Our paper 'A Survey of Personalization: From RAG to Agent' got accepted by TOIS. Congratulations to Pengyue Jia, Yingyi Zhang and Wenlin Zhang!"
 
@@ -26,7 +29,7 @@
   headline: "Our paper 'Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval' got accepted by AAAI'26 (Oral). Congratulations to Yingyi Zhang, Pengyue Jia, Derong Xu, Yi Wen, Wenlin Zhang, and Xiaopeng Li!"
 
 - date: Nov 2025 
-  headline: "Our paper 'Renormalization Group Guided Tensor Network Structure Search' got accepted by AAAI'26 (Poster). Congratulations to Maolin Wang, Bowen Yu, Sheng Zhang, Linjie Mi, Wanyu Wang, and Pengyue Jia!"
+  headline: "Our paper 'Renormalization Group Guided Tensor Network Structure Search' got accepted by AAAI'26 (Poster). Congratulations to Maolin Wang, Bowen Yu, Sheng Zhang, Linjie Mi, and Pengyue Jia!"
 
 - date: Nov 2025 
   headline: "Our paper 'Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection' got accepted by AAAI'26 (Poster). Congratulations to Yuxuan Hu, Yuhao Wang, and Pengyue Jia!"
