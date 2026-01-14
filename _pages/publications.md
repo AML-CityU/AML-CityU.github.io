@@ -90,7 +90,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [7] PromptX: A Cognitive Agent Platform with Long-term Memory\
 &nbsp;&nbsp;&nbsp;&nbsp;Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, Maolin Wang, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Demo Track), Proceedings of the ACM Web Conference 2026, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Demo Track), Companion Proceedings of The Web Conference 2026
 
 [8] Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yingyi Zhang, Bowen Yu, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao\
