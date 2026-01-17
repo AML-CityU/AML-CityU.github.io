@@ -92,7 +92,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, Maolin Wang, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Demo Track), Companion Proceedings of The Web Conference 2026
 
-[8] Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions\
+[8] [Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions](https://doi.org/10.1145/3788284)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yingyi Zhang, Bowen Yu, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys (Impact Factor: 26.3)
 
