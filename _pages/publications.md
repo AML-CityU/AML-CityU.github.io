@@ -86,15 +86,18 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [6] ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Lang Fu, Jun Chu, KentGuoK, Chenjie.Qin, xinxin wang, Siyu Wu, Wen Jiang, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Industry Track), Proceedings of the ACM Web Conference 2026, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Industry Track), Proceedings of the ACM Web Conference 2026, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system at Taobao B2B platform, serving over 10 million daily queries and achieved a 2.1% increase in CTR</font>
 
 [7] NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Shengyu Zhou, Jinyu Lu, Ziwei Liu, Langming Liu, Maolin Wang, Wenlin Zhang, Feng Li, Wenbo Su, Pengjie Wang, Jian Xu, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Industry Track), Proceedings of the ACM Web Conference 2026, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Industry Track), Proceedings of the ACM Web Conference 2026, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system at Taobao platform, serving over 100 million daily active users and generating over 10 billion yuan in advertising revenue</font>
 
 [8] PromptX: A Cognitive Agent Platform with Long-term Memory\
 &nbsp;&nbsp;&nbsp;&nbsp;Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, Maolin Wang, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Demo Track), Companion Proceedings of The Web Conference 2026
+&nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Demo Track), Companion Proceedings of The Web Conference 2026\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Over 3K stars and 50K downloads on GitHub. PromptX has completed a 5-month practical deployment in 15+ enterprises across 6 industries such as software engineering, education, and healthcare</font>
 
 [9] [Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions](https://doi.org/10.1145/3788284)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yingyi Zhang, Bowen Yu, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao\
