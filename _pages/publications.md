@@ -64,88 +64,94 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2026
 
-[1] Clue2Emo: A Brain-Inspired Framework for Open-Vocabulary Multimodal Emotion Recognition\
+[1] DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation\
+&nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering, CCF-A
+
+[2] Generating Compressed Counterfactual Hard Negative Samples for Graph Contrastive Learning\
+&nbsp;&nbsp;&nbsp;&nbsp;CAAI Transactions on Intelligence Technology
+
+[3] Clue2Emo: A Brain-Inspired Framework for Open-Vocabulary Multimodal Emotion Recognition\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziyun Zhang, Jian Chen, Yuxuan Hu, Zhen Zhang, Xiaoyan Yuan, Min Yang, Xiangyu Zhao, Edith Ngai, Chengming Li, Xiping Hu\
 &nbsp;&nbsp;&nbsp;&nbsp;ICASSP'26, IEEE International Conference on Acoustics, Speech, and Signal Processing, CCF-B
 
-[2] To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention\
+[4] To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26, Proceedings of the ACM Web Conference 2026, CCF-A
 
-[3] BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations\
+[5] BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations\
 &nbsp;&nbsp;&nbsp;&nbsp;Mengyang Ma, Xiaopeng Li, Wanyu Wang, Zhaocheng Du, Jingtong Gao, Pengyue Jia, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, Xiao Han, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26, Proceedings of the ACM Web Conference 2026, CCF-A
 
-[4] Detecting Miscitation on the Scholarly Web through LLM-Augmented Text-Rich Graph Learning\
+[6] Detecting Miscitation on the Scholarly Web through LLM-Augmented Text-Rich Graph Learning\
 &nbsp;&nbsp;&nbsp;&nbsp;Huidong Wu, Haojia Xiang, Jingtong Gao, Xiangyu Zhao, Dengsheng Wu, Jianping Li\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26, Proceedings of the ACM Web Conference 2026, CCF-A
 
-[5] SAGE: Global Semantic Alignment with LLMs for Long-Tail Sequential Recommendation\
+[7] SAGE: Global Semantic Alignment with LLMs for Long-Tail Sequential Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Tongshu Bian, Ziyan Wang, Xiaotong Jiang, Binhao Wang, Derong Xu, Wanyu Wang, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26, Proceedings of the ACM Web Conference 2026, CCF-A
 
-[6] ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment\
+[8] ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Lang Fu, Jun Chu, KentGuoK, Chenjie.Qin, xinxin wang, Siyu Wu, Wen Jiang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Industry Track), Proceedings of the ACM Web Conference 2026, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system at Taobao B2B platform, serving over 10 million daily queries and achieved a 2.1% increase in CTR</font>
 
-[7] NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations\
+[9] NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Shengyu Zhou, Jinyu Lu, Ziwei Liu, Langming Liu, Maolin Wang, Wenlin Zhang, Feng Li, Wenbo Su, Pengjie Wang, Jian Xu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Industry Track), Proceedings of the ACM Web Conference 2026, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system at Taobao platform, serving over 100 million daily active users and generating over 10 billion yuan in advertising revenue</font>
 
-[8] PromptX: A Cognitive Agent Platform with Long-term Memory\
+[10] PromptX: A Cognitive Agent Platform with Long-term Memory\
 &nbsp;&nbsp;&nbsp;&nbsp;Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, Maolin Wang, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Demo Track), Companion Proceedings of The Web Conference 2026\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Over 3K stars and 50K downloads on GitHub. PromptX has completed a 5-month practical deployment in 15+ enterprises across 6 industries such as software engineering, education, and healthcare</font>
 
-[9] [Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions](https://doi.org/10.1145/3788284)\
+[11] [Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions](https://doi.org/10.1145/3788284)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yingyi Zhang, Bowen Yu, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys (Impact Factor: 26.3)
 
 
-[10] A Survey of Personalization: From RAG to Agent\
+[12] A Survey of Personalization: From RAG to Agent\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Xiangyang Li, Zhaocheng Du, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
 
 
-[11] Automated Information Flow Selection for Multi-Scenario Multi-Task Recommendation\
+[13] Automated Information Flow Selection for Multi-Scenario Multi-Task Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Chaohua Yang, Dugang Liu*, Shiwei Li, Yuwen Fu, Xing Tang, Weihong Luo, Xiangyu Zhao, Xiuqiang He, Zhong Ming\
 &nbsp;&nbsp;&nbsp;&nbsp;WSDM'26, Proceedings of the 19th ACM International Conference on Web Search and Data Mining, CCF-B
 
 
-[12] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
+[14] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Benchmark Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
 
-[13] Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System\
+[15] Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System\
 &nbsp;&nbsp;&nbsp;&nbsp;Yupeng Xu, Huixun Jia, Maolin Wang, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, Xiaodong Sun\
 &nbsp;&nbsp;&nbsp;&nbsp;Nature npj Digital Medicine, SCI Q1 journal, Impact Factor 15.1 \
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system at Shanghai General Hospital</font>
 
 
-[14] Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization\
+[16] Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, Xiangyu Zhao, Zijian Zhang, Xuetao Wei, James Jianqiao Yu\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Oral), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
 
-[15] Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval\
+[17] Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;Yingyi Zhang, Pengyue Jia, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Oral), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
 
-[16] Renormalization Group Guided Tensor Network Structure Search\
+[18] Renormalization Group Guided Tensor Network Structure Search\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Bowen Yu, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
 
-[17] Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection\
+[19] Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, Pengyue Jia, Wei Wang, Chengming Li, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
 
-[18] RoSA: RoPE-aware Selective Adaptation for Efficient LLM Fine-Tuning\
+[20] RoSA: RoPE-aware Selective Adaptation for Efficient LLM Fine-Tuning\
 &nbsp;&nbsp;&nbsp;&nbsp;Dayan Pan, Jingyuan Wang, Yilong Zhou, Jiawei Cheng, Pengyue Jia, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 ### Publications in 2025
