@@ -178,7 +178,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2025
 
-[1] Sparse Gradient Training for Recommender Systems\
+[1] [Sparse Gradient Training for Recommender Systems](https://doi.org/10.1007/s41019-025-00327-5)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yunke Qu, Liang Qu, Tong Chen, Xiangyu Zhao, Jianxin Li, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;Data Science and Engineering
 
