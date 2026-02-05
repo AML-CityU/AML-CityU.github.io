@@ -232,31 +232,12 @@
   email: fangyuhong@csu.edu.cn
   number_educ: 0
   website: https://hong-fangyu.github.io/
-- name: Jiangping Lv
-  photo: jiangpinglv.jpg
-  info: Part-time PhD-Data Science
-  email: virginia2019lu@gmail.com
-  number_educ: 0
-  website: https://virginia-jp.github.io/MyFirstWebsite/  
-- name: Jill ChiuYee Leung
-  photo: chaoxiliang.jpg
-  info: Part-time PhD-Data Science
-  email: jill.cyleung@gmail.com
-  number_educ: 0
-  website: https://www.jillcyleung.tech/
-
 - name: Binhao wang
   photo: binhaowang.jpg
   info: PhD-Data Science
   email: binhawang2-c@my.cityu.edu.hk
   number_educ: 0
   website: https://binhaowang.github.io/
-- name: Zhiyu Zhao
-  photo: zhiyuzhao.jpg
-  info: PhD-Data Science
-  email: zhaozhiyu1@outlook.com
-  number_educ: 0
-  website: https://georgebrown-ai.github.io/GB.github.io/
 - name: Haotian Nan
   photo: haotiannan.jpg
   info: PhD-Data Science
@@ -269,3 +250,15 @@
   email: kendeguo@gmail.com
   number_educ: 0
   website: https://kaifengguo.github.io/
+- name: Jiangping Lv
+  photo: jiangpinglv.jpg
+  info: Part-time PhD-Data Science
+  email: virginia2019lu@gmail.com
+  number_educ: 0
+  website: https://virginia-jp.github.io/MyFirstWebsite/
+- name: Jill ChiuYee Leung
+  photo: chaoxiliang.jpg
+  info: Part-time PhD-Data Science
+  email: jill.cyleung@gmail.com
+  number_educ: 0
+  website: https://www.jillcyleung.tech/
