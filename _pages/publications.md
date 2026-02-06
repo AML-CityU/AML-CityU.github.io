@@ -80,7 +80,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Jiashi Gao, Kexin Liu, Xinwei Guo, Junlei Zhou, Jiaxin Zhang, Xiangyu Zhao, Guanhua Chen, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations
 
-[5] D2TCDR: Disentangled Diffusion-based Transfer for Cross-Domain Recommendation\
+[5] [D2TCDR: Disentangled Diffusion-based Transfer for Cross-Domain Recommendation](https://doi.org/10.1145/3795793)\
+&nbsp;&nbsp;&nbsp;&nbsp;Hong Zhou, Xixun Lin, Yanan Cao, Shichao Zhu, Renqi Jia, Xiangyu Zhao, Guandong Xu, Li Guo\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
 
 [6] DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation\
