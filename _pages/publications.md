@@ -130,7 +130,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26, Proceedings of the ACM Web Conference 2026, CCF-A
 
 [18] ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment\
-&nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Lang Fu, Jun Chu, KentGuoK, Chenjie.Qin, xinxin wang, Siyu Wu, Wen Jiang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Lang Fu, Jun Chu, Kai Guo, Chenjie Qin, Xinxin Wang, Siyu Wu, Wen Jiang, and Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Industry Track), Proceedings of the ACM Web Conference 2026, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system at Taobao B2B platform, serving over 10 million daily queries and achieved a 2.1% increase in CTR</font>
 
