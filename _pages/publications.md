@@ -89,19 +89,19 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [6] SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Zhiqi Li, Binhao Wang, Xuhui Chen, Tianshuo Wei, Wanyu Wang, Shikai Fang, Ruocheng Guo, Zenglin Xu, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations
+&nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations, CCF-A
 
 [7] From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Yi Wen, Pengyue Jia, Yingyi Zhang, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu\
-&nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations
+&nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations, CCF-A
 
 [8] Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;Yingyi Zhang, Junyi Li, Wenlin Zhang, Pengyue Jia, Xianneng Li, Yichao Wang, Derong Xu, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations
+&nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations, CCF-A
 
 [9] Fair Decision Utility in Human-AI Collaboration: Interpretable Confidence Adjustment for Humans with Cognitive Disparities\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiashi Gao, Kexin Liu, Xinwei Guo, Junlei Zhou, Jiaxin Zhang, Xiangyu Zhao, Guanhua Chen, Xin Yao, Xuetao Wei\
-&nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations
+&nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations, CCF-A
 
 [10] [D2TCDR: Disentangled Diffusion-based Transfer for Cross-Domain Recommendation](https://doi.org/10.1145/3795793)\
 &nbsp;&nbsp;&nbsp;&nbsp;Hong Zhou, Xixun Lin, Yanan Cao, Shichao Zhu, Renqi Jia, Xiangyu Zhao, Guandong Xu, Li Guo\
