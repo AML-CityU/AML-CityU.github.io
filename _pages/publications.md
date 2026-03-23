@@ -76,7 +76,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Yongli Xiang, Ziming Hong, Zhaoqing Wang, Xiangyu Zhao, Bo Han, Tongliang Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;CVPR'26, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CCF-A
 
-[3] Democratic Recommendation with User and Item Representatives Produced by Graph Condensation\
+[3] [Democratic Recommendation with User and Item Representatives Produced by Graph Condensation](https://doi.org/10.1109/TKDE.2026.3669777)\
+&nbsp;&nbsp;&nbsp;&nbsp;Jiahao Liang, Haoran Yang, Xiangyu Zhao, Zhiwen Yu, Guandong Xu, Wanyu Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering, CCF-A
 
 [4] Multi-agents based User Values Mining for Recommendation\
