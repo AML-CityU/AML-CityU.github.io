@@ -107,10 +107,12 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Hong Zhou, Xixun Lin, Yanan Cao, Shichao Zhu, Renqi Jia, Xiangyu Zhao, Guandong Xu, Li Guo\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
 
-[11] DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation\
+[11] [DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation](https://doi.org/10.1109/TKDE.2026.3655841)\
+&nbsp;&nbsp;&nbsp;&nbsp;Xinyi Gao, Wenjie Li, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering, CCF-A
 
-[12] Generating Compressed Counterfactual Hard Negative Samples for Graph Contrastive Learning\
+[12] [Generating Compressed Counterfactual Hard Negative Samples for Graph Contrastive Learning](https://doi.org/10.1049/cit2.70102)\
+&nbsp;&nbsp;&nbsp;&nbsp;Haoran Yang, Hongxu Chen, Xiangyu Zhao, Sixiao Zhang, Xiangguo Sun, Qian Li, Hongzhi Yin, Guandong Xu\
 &nbsp;&nbsp;&nbsp;&nbsp;CAAI Transactions on Intelligence Technology
 
 [13] Clue2Emo: A Brain-Inspired Framework for Open-Vocabulary Multimodal Emotion Recognition\
