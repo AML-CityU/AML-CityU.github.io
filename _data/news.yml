@@ -1,4 +1,40 @@
 - date: Apr 2026
+  headline: "Our paper 'MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search' got accepted by ACL'26 Main Conference. Congratulations to Sheng Zhang, Yingyi Zhang, Pengyue Jia, Wenlin Zhang, and Maolin Wang!"
+
+- date: Apr 2026
+  headline: "Our paper 'GeoArena: Evaluating Open-World Geographic Reasoning in Large Vision-Language Models' got accepted by ACL'26 Main Conference. Congratulations to Pengyue Jia and Yingyi Zhang!"
+
+- date: Apr 2026
+  headline: "Our paper 'MTA: A Merge-then-Adapt Framework for Personalized Large Language Models' got accepted by ACL'26 Main Conference. Congratulations to Xiaopeng Li, Wanyu Wang, Wenlin Zhang, Pengyue Jia, Yingyi Zhang, and Maolin Wang!"
+
+- date: Apr 2026
+  headline: "Our paper 'Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory' got accepted by ACL'26 Main Conference. Congratulations to Derong Xu, Pengyue Jia, Yingyi Zhang, Yi Wen, and Wenlin Zhang!"
+
+- date: Apr 2026
+  headline: "Our paper 'Select Before Use: On the Importance of Reference Model Selection in Preference Alignment' got accepted by ACL'26 Main Conference. Congratulations!"
+
+- date: Apr 2026
+  headline: "Our paper 'Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression' got accepted by ACL'26 Findings. Congratulations to Maolin Wang, Wanyu Wang, and Pengyue Jia!"
+
+- date: Apr 2026
+  headline: "Our paper 'Can LLMs Hear the Dogwhistle?' got accepted by ACL'26 Findings. Congratulations!"
+
+- date: Apr 2026
+  headline: "Our paper 'BalanceSFT: Improving LLM Function Calling with Balanced Training Signals and Data Hardness' got accepted by ACL'26 Findings. Congratulations to Maolin Wang!"
+
+- date: Apr 2026
+  headline: "Our paper 'AdapTime: Enabling Adaptive Temporal Reasoning in Large Language Models' got accepted by ACL'26 Findings. Congratulations to Yejing Wang, Zichuan Fu, and Derong Xu!"
+
+- date: Apr 2026
+  headline: "Our paper 'MultiDx: A Multi-Source Knowledge Integration Framework towards Diagnostic Reasoning' got accepted by ACL'26 Findings. Congratulations to Yejing Wang, Pengyue Jia, Zichuan Fu, and Derong Xu!"
+
+- date: Apr 2026
+  headline: "Our paper 'SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering' got accepted by ACL'26 Findings. Congratulations to Wanyu Wang, Yuhao Wang, Yejing Wang, Xiao Han, and Maolin Wang!"
+
+- date: Apr 2026
+  headline: "Our paper 'Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning' got accepted by ACL'26 Findings. Congratulations to Zichuan Fu and Yejing Wang!"
+
+- date: Apr 2026
   headline: "Our tutorial proposal 'Bridging Personalization and AI: From RAG to Agent' got accepted by SIGIR'26. Congratulations to Pengyue Jia, Xiaopeng Li, Derong Xu, Yi Wen, Yingyi Zhang, and Wenlin Zhang!"
 
 - date: Apr 2026
