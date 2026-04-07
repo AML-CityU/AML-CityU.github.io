@@ -94,31 +94,31 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [6] Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingyu Peng, Maolin Wang, Nan Wang, Jiatong Li, Yuchen Li, Yuyang Ye, Wanyu Wang, Pengyue Jia, Kai Zhang, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
 [7] Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xian Wu, Guojing Li, Yejing Wang, Yijun Chen, Zihao Zhao, Yixuan Luo, Hanyu Yan, Yefeng Zheng, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
 [8] AdapTime: Enabling Adaptive Temporal Reasoning in Large Language Models\
 &nbsp;&nbsp;&nbsp;&nbsp;Yimin Deng, Yejing Wang, Zhenxi Lin, Zichuan Fu, Xian Wu, Derong Xu, Yefeng Zheng, Xiangyu Zhao, Guoshuai Zhao, Li Zhu, Xueming Qian\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
 [9] MultiDx: A Multi-Source Knowledge Integration Framework towards Diagnostic Reasoning\
 &nbsp;&nbsp;&nbsp;&nbsp;Yimin Deng, Zhenxi Lin, Yejing Wang, Xian Wu, Pengyue Jia, Zichuan Fu, Derong Xu, Yefeng Zheng, Xiangyu Zhao, Guoshuai Zhao, Li Zhu, Xueming Qian\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
 [10] SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuqing Fu, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, Xiao Han, Maolin Wang, Guoshuai Zhao, Yi Chang, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
 [11] BalanceSFT: Improving LLM Function Calling with Balanced Training Signals and Data Hardness\
 &nbsp;&nbsp;&nbsp;&nbsp;Bingguang Hao, Zengzhuang Xu, Maolin Wang, Yuntao Wen, Yicheng Chen, Cunyin Peng, Long Chen, Xiangyu Zhao, Jinjie Gu, Chenyi Zhuang, Ji Zhang\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
 [12] Can LLMs Hear the Dogwhistle?\
 &nbsp;&nbsp;&nbsp;&nbsp;Yifan Liu, Yi Lin, Xinwei Guo, Ziwei Wang, Jiaxin Zhang, Guanhua Chen, Haiyan Wu, Xiangyu Zhao, Xin Yao, Xuetao Wei\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
 [13] LLM-EDT: Large Language Models Enhanced Cross-domain Sequential Recommendation with Dual-phase Training\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziwei Liu, Qidong Liu, Wanyu Wang, Yejing Wang, Pengyue Jia, Tong Xu, Wei Huang, Chong Chen, Xiangyu Zhao\
@@ -248,7 +248,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [31] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Benchmark Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Benchmark Track), The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 
 [32] Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System\
@@ -407,15 +407,15 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [30] [Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation](https://aclanthology.org/2025.findings-acl.220/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Derong Xu, Xiaopeng Li, Zhaocheng Du, Xiangyang Li, Yichao Wang, Yuhao Wang, Qidong Liu, Maolin Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics: ACL 2025
 
 [31] [The Elephant in the Room: Exploring the Role of Neutral Words in Language Model Group-Agnostic Debiasing](https://aclanthology.org/2025.findings-acl.1044/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xinwei Guo, Jiashi Gao, Junlei Zhou, Jiaxin Zhang, Guanhua Chen, Xiangyu Zhao, Quanying Dai, Haiyan Wu, Xin Yao, Xuetao Wei\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics: ACL 2025
 
 [32] [A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs](https://aclanthology.org/2025.findings-acl.1056/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yimin Deng, Yuxia Wu, Yejing Wang, Guoshuai Zhao, Li Zhu, Qidong Liu, Derong Xu, Zichuan Fu, Xian Wu, Yefeng Zheng, Xiangyu Zhao, Xueming Qian\
-&nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics ACL 2025, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ACL'25 Findings, Findings of the Association for Computational Linguistics: ACL 2025
 
 [33] [Model Merging for Knowledge Editing](https://aclanthology.org/2025.acl-industry.30/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xian Wu, Guojing Li, Yingying Zhang, Yefeng Zheng, Tianshi Ming, Yejing Wang, Wanyu Wang, Xiangyu Zhao\
@@ -966,12 +966,12 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [19] [Counterfactual Adversarial Learning for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3583780.3615152)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jialin Liu, Zijian Zhang, Xiangyu Zhao, Jun Li\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on Information & Knowledge Management, CCF-B\
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/liu2023counterfactual.html)]
 
 [20] [Assessing Student Performance with Multi-granularity Attention from Online Classroom Dialogue](https://dl.acm.org/doi/pdf/10.1145/3583780.3615143)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiahao Chen, Zitao Liu, Shuyan Huang, Yaying Huang, Xiangyu Zhao, Boyu Gao, Weiqi Lu\
-&nbsp;&nbsp;&nbsp;&nbsp;CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on Information & Knowledge Management, CCF-B\
+&nbsp;&nbsp;&nbsp;&nbsp;CIKM'23 (short paper), Proceedings of the 32nd ACM International Conference on Information & Knowledge Management\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/chen2023assessing.html)]
 
 [21] [AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation](https://link.springer.com/article/10.1007/s10115-023-01951-1)\
@@ -1026,12 +1026,12 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [31] [AutoDPQ: Automated Differentiable Product Quantization Embedding Compression Framework](https://dl.acm.org/doi/pdf/10.1145/3539618.3591953)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xin Gan, Yuhao Wang, Xiangyu Zhao, Wanyu Wang, Yiqi Wang, Zitao Liu\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/gan2023autodpq.html)]
 
 [32] [Towards Robust Knowledge Tracing Models via k-Sparse Attention](https://dl.acm.org/doi/pdf/10.1145/3539618.3592073)\
 &nbsp;&nbsp;&nbsp;&nbsp;Shuyan Huang, Zitao Liu, Xiangyu Zhao, Weiqi Luo, Jian Weng\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'23 (short paper), Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/huang2023towards.html)]
 
 [33] [SC-Ques: A Sentence Completion Question Dataset for English as a Second Language Learners](https://dl.acm.org/doi/abs/10.1007/978-3-031-32883-1_59)\
