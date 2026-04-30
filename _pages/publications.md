@@ -96,19 +96,19 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Jingyu Peng, Maolin Wang, Nan Wang, Jiatong Li, Yuchen Li, Yuyang Ye, Wanyu Wang, Pengyue Jia, Kai Zhang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[7] Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning\
+[7] [Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning](https://arxiv.org/abs/2604.23623)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xian Wu, Guojing Li, Yejing Wang, Yijun Chen, Zihao Zhao, Yixuan Luo, Hanyu Yan, Yefeng Zheng, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[8] AdapTime: Enabling Adaptive Temporal Reasoning in Large Language Models\
+[8] [AdapTime: Enabling Adaptive Temporal Reasoning in Large Language Models](https://arxiv.org/abs/2604.24175)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yimin Deng, Yejing Wang, Zhenxi Lin, Zichuan Fu, Xian Wu, Derong Xu, Yefeng Zheng, Xiangyu Zhao, Guoshuai Zhao, Li Zhu, Xueming Qian\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[9] MultiDx: A Multi-Source Knowledge Integration Framework towards Diagnostic Reasoning\
+[9] [MultiDx: A Multi-Source Knowledge Integration Framework towards Diagnostic Reasoning](https://arxiv.org/abs/2604.24186)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yimin Deng, Zhenxi Lin, Yejing Wang, Xian Wu, Pengyue Jia, Zichuan Fu, Derong Xu, Yefeng Zheng, Xiangyu Zhao, Guoshuai Zhao, Li Zhu, Xueming Qian\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[10] SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering\
+[10] [SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering](https://arxiv.org/abs/2604.24515)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuqing Fu, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, Xiao Han, Maolin Wang, Guoshuai Zhao, Yi Chang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
