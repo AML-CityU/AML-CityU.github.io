@@ -12,61 +12,65 @@ permalink: /publications/
 You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ). Please find our open-sourced works on our [Lab GitHub](https://github.com/Applied-Machine-Learning-Lab).
 
 ### Tutorials
-[1] Bridging Personalization and AI: From RAG to Agent\
+[1] Tutorial on Generative Recommendation: Foundations and Frontiers\
+&nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Yejing Wang, Honghui Bao, Bo Chen, Kuo Cai, Wenlin Zhang, Ziwei Liu, Sheng Zhang, Binhao Wang, Qinglin Jia, Qiang Luo, Ruiming Tang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'26, The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
+
+[2] Bridging Personalization and AI: From RAG to Agent\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Xiaopeng Li, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26, Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
-[2] Function Calling in Large Language Models: From Fundamentals to Industrial Practice\
+[3] Function Calling in Large Language Models: From Fundamentals to Industrial Practice\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Bowen Yu, Yingyi Zhang, Bingguang Hao, Chenyi Zhuang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;PAKDD'26, Proceedings of the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining
 
-[3] [Learning from Spatio-Temporal Data in the LLM Era: Foundations, Models, and Emerging Trends](https://doi.org/10.1145/3748777.3748812)\
+[4] [Learning from Spatio-Temporal Data in the LLM Era: Foundations, Models, and Emerging Trends](https://doi.org/10.1145/3748777.3748812)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Xiao Han, Xiangyu Zhao, Chenjuan Guo, Bin Yang\
 &nbsp;&nbsp;&nbsp;&nbsp;SSTD'25, Proceedings of the 19th International Symposium on Spatial and Temporal Data
 
-[4] [Large Language Model Enhanced Recommender Systems: Methods, Applications and Trends](https://arxiv.org/abs/2412.13432)\
+[5] [Large Language Model Enhanced Recommender Systems: Methods, Applications and Trends](https://arxiv.org/abs/2412.13432)\
 &nbsp;&nbsp;&nbsp;&nbsp;Qidong Liu, Xiangyu Zhao, Yuhao Wang, Yejing Wang, Zijian Zhang, Yuqi Sun, Xiang Li, Maolin Wang, Pengyue Jia, Chong Chen, Wei Huang, Feng Tian\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'25, Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
-[5] [Joint Modeling in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3701716.3715867)\
+[6] [Joint Modeling in Deep Recommender Systems](https://dl.acm.org/doi/10.1145/3701716.3715867)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Jingtong Gao, Yuhao Wang, Xiaopeng Li, Qidong Liu, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'25, Proceedings of the ACM Web Conference 2025
 
-[6] Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era\
+[7] Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era\
 &nbsp;&nbsp;&nbsp;&nbsp;Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'25, Proceedings of the ACM Web Conference 2025
 
-[7] Joint Modeling in Recommendations: Foundations and Frontiers\
+[8] Joint Modeling in Recommendations: Foundations and Frontiers\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Yichao Wang, Bo Chen, Pengyue Jia, Yuhao Wang, Jingtong Gao, Huifeng Guo, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'23, Proceedings of the 32nd International Joint Conference on Artificial Intelligence
 
-[8] [Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
+[9] [Trustworthy Recommender Systems: Foundations and Frontiers](https://arxiv.org/abs/2209.10117)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenqi Fan, Xiangyu Zhao, Lin Wang, Xiao Chen, Jingtong Gao, Qidong Liu, Shijie Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'23, Proceedings of the 32nd International Joint Conference on Artificial Intelligence\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'23, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2023trustworthy.html)]
 
-[9] [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
+[10] [A Comprehensive Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2209.10117)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'23, Companion Proceedings of the Web Conference 2023\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/fan2022comprehensive.html)]
 
-[10] [AutoML for Deep Recommender Systems: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
+[11] [AutoML for Deep Recommender Systems: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ruiming Tang, Bo Chen, Yejing Wang, Huifeng Guo, Yong Liu, Wenqi Fan, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WSDM'23, Proceedings of the 16th ACM International Conference on Web Search and Data Mining\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/tang2023automl.html)]
 
-[11] [Automated Machine Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
+[12] [Automated Machine Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Wenqi Fan, Bo Chen, Ruiming Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'22, Companion Proceedings of the Web Conference 2022\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/zhao2022automated.html)]
 
-[12] [Deep Recommender System: Fundamentals and Advances](https://deeprs-tutorial.github.io/)\
+[13] [Deep Recommender System: Fundamentals and Advances](https://deeprs-tutorial.github.io/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangyu Zhao, Wenqi Fan, Dawei Yin, Jiliang Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'21, Companion Proceedings of the Web Conference 2021\
 &nbsp;&nbsp;&nbsp;&nbsp;[[CITE]({{ site.url }}{{ site.baseurl }}/bibtex/t_west2021summary.html)]
 
-[13] [Deep Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/ijcai2021-tutorial/)\
+[14] [Deep Learning for Recommendations: Fundamentals and Advances](https://advanced-recommender-systems.github.io/ijcai2021-tutorial/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenqi Fan, Xiangyu Zhao, Dawei Yin, Jiliang Tang\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'21, Proceedings of the 30th International Joint Conference on Artificial Intelligence
 
@@ -160,7 +164,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Wenlin Zhang, Yingyi Zhang, Pengyue Jia, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26 (Resource Track), Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
-[23] Embedding in Recommender Systems: A Survey\
+[23] [Embedding in Recommender Systems: A Survey](https://doi.org/10.1145/3812652)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Xinjian Zhao, Wanyu Wang, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
 
