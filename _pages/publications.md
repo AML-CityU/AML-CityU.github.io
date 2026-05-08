@@ -14,11 +14,11 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 ### Tutorials
 [1] Tutorial on Generative Recommendation: Foundations and Frontiers\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Yejing Wang, Honghui Bao, Bo Chen, Kuo Cai, Wenlin Zhang, Ziwei Liu, Sheng Zhang, Binhao Wang, Qinglin Jia, Qiang Luo, Ruiming Tang, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'26, The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'26, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [2] Bridging Personalization and AI: From RAG to Agent\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Xiaopeng Li, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26, Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26, Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 [3] Function Calling in Large Language Models: From Fundamentals to Industrial Practice\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Bowen Yu, Yingyi Zhang, Bingguang Hao, Chenyi Zhuang, Xiangyu Zhao\
