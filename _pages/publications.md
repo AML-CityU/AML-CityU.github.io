@@ -256,7 +256,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys (Impact Factor: 26.3)
 
 
-[29] A Survey of Personalization: From RAG to Agent\
+[29] [A Survey of Personalization: From RAG to Agent](https://doi.org/10.1145/3802586)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Xiangyang Li, Zhaocheng Du, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
 
