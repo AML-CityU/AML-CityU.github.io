@@ -86,7 +86,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [3] Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization\
 &nbsp;&nbsp;&nbsp;&nbsp;Junyi Li, Xiaowei Qian, Yingyi Zhang, Wenlin Zhang, Guojing Li, Sheng Zhang, Xiao Han, Yichao Wang, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;ICML'26 (Spotlight), Proceedings of the 43rd International Conference on Machine Learning, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;ICML'26, Proceedings of the 43rd International Conference on Machine Learning, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight</font>
 
 [4] Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective\
 &nbsp;&nbsp;&nbsp;&nbsp;Yancheng Chen, Dun Ma, Shuai Zhang, Yang Liu, Xixun Lin, Xiangyu Zhao, Wenguo Yang, Wei Chen, Chuan Zhou\
