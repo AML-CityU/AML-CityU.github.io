@@ -86,7 +86,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [3] Hierarchical Residual Policy Optimization for Generative Recommendations\
 &nbsp;&nbsp;&nbsp;&nbsp;Kaifeng Guo, Yiming Yang, Jingtong Gao, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'26, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Research Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
 [4] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
