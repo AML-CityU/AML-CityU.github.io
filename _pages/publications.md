@@ -151,7 +151,8 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [19] GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Shengyu Zhou, Jinyu Lu, Qidong Liu, Xinhang Li, Wenlin Zhang, Feng Li, Pengjie Wang, Chuan Yu, Jian Xu, Bo Zheng, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26, Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26, Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Deployed across all of Taobao businesses, including Taobao Mobile, Taobao Web and Xianyu</font>
 
 [20] ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Yanxin Chen, Wanyu Wang, Pengyue Jia, Chao Zhang, Maolin Wang, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, Xiangyu Zhao\
