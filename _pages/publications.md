@@ -76,21 +76,21 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2026
 
-[1] Hierarchical Residual Policy Optimization for Generative Recommendations\
-&nbsp;&nbsp;&nbsp;&nbsp;Kaifeng Guo, Yiming Yang, Jingtong Gao, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'26, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
-
-[2] The Best of Both Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation\
+[1] The Best of Both Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziwei Liu, Yejing Wang, Wanyu Wang, Zejian Wang, Qidong Liu, Zijian Zhang, Wei Huang, Chong Chen, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (ADS Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[3] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
-&nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Benchmark Track), The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
-
-[4] Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner\
+[2] Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner\
 &nbsp;&nbsp;&nbsp;&nbsp;Yewen Li, Jingtong Gao, Peng Jiang, Ruyi An, Xiangyu Zhao, Bo An, Fei Pan, Qingpeng Cai, Peng Jiang, Kun Gai\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (ADS Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
+
+[3] Hierarchical Residual Policy Optimization for Generative Recommendations\
+&nbsp;&nbsp;&nbsp;&nbsp;Kaifeng Guo, Yiming Yang, Jingtong Gao, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'26, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
+
+[4] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
+&nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Benchmark Track), The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 [5] TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework\
 &nbsp;&nbsp;&nbsp;&nbsp;Chao Zhang, Yuhao Wang, Derong Xu, Haoxin Zhang, Yuanjie Lyu, Yuhao Chen, Shuochen Liu, Tong Xu, Xiangyu Zhao, Yan Gao, Yao Hu, Enhong Chen\

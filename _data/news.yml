@@ -1,4 +1,16 @@
 - date: May 2026
+  headline: "Our paper 'The Best of Both Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation' got accepted by KDD'26 (ADS Track). Congratulations to Ziwei Liu, Yejing Wang, Wanyu Wang, Qidong Liu, and Zijian Zhang!"
+
+- date: May 2026
+  headline: "Our paper 'Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner' got accepted by KDD'26 (ADS Track). Congratulations to Jingtong Gao!"
+
+- date: May 2026
+  headline: "Our paper 'Hierarchical Residual Policy Optimization for Generative Recommendations' got accepted by KDD'26. Congratulations to Kaifeng Guo and Jingtong Gao!"
+
+- date: May 2026
+  headline: "Our paper 'Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing' got accepted by KDD'26 (Benchmark Track). Congratulations to Wenlin Zhang, Qiyuan Ge, Pengyue Jia, Xiaopeng Li, Zijian Zhang and Maolin Wang!"
+
+- date: May 2026
   headline: "Our paper 'TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework' got accepted by TOIS. Congratulations to Chao Zhang, Yuhao Wang, Derong Xu, and Shuochen Liu!"
 
 - date: May 2026
@@ -165,9 +177,6 @@
 
 - date: Nov 2025 
   headline: "Two of our members are selected as volunteers for AAAI'26 (Student Scholarship & Volunteer Program). Congratulations to Yingyi Zhang and Dayan Pan!"
-
-- date: Nov 2025 
-  headline: "Our paper 'Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing' got accepted by KDD'26 (Benchmark Track). Congratulations to Wenlin Zhang, Qiyuan Ge, Pengyue Jia, Xiaopeng Li, Zijian Zhang and Maolin Wang!"
 
 - date: Nov 2025 
   headline: "Our paper 'Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System' got accepted by npj Digital Medicine (SCI Q1 Top, IF 15.1). Congratulations to Maolin Wang!"
