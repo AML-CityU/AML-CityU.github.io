@@ -111,7 +111,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [9] PoemDirector: A Multi-Agent Context-Adaptive Instructional Mode Selection Framework for Chinese Classical Poetry Video Generation\
 &nbsp;&nbsp;&nbsp;&nbsp;Tengteng Cheng, Xiaoli Zeng, Jialu Huang, Mingliang Hou, Zitao Liu, Xiangyu Zhao, Weiqi Luo\
-&nbsp;&nbsp;&nbsp;&nbsp;IJCAI'26 (AI and Social Good Track), Proceedings of the 35th International Joint Conference on Artificial Intelligence, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;IJCAI'26 (AI and Social Good Track), Proceedings of the 35th International Joint Conference on Artificial Intelligence, CCF-B
 
 [10] MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search\
 &nbsp;&nbsp;&nbsp;&nbsp;Sheng Zhang, Junyi Li, Yingyi Zhang, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wenlin Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao\
