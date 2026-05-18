@@ -97,7 +97,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
 
 [6] T-GINEE: A Tensor-Based Multi-Graph Representation Learning\
-&nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Xuhui Chen, ZiTing Mai, Zhiqi Li, Tianshuo Wei, Yutian Xiao, Wenlin Zhang, Wanyu Wang, Ruocheng Guo, Haoxuan Li, Zenglin Xu, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Xuhui Chen, Ziting Mai, Zhiqi Li, Tianshuo Wei, Yutian Xiao, Wenlin Zhang, Wanyu Wang, Ruocheng Guo, Haoxuan Li, Zenglin Xu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICML'26, Proceedings of the 43rd International Conference on Machine Learning, CCF-A
 
 [7] Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization\
