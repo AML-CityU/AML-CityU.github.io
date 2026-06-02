@@ -243,6 +243,90 @@
   email: kendeguo@gmail.com
   number_educ: 0
   website: https://kaifengguo.github.io/
+- name: Jiashen Ren
+  photo: jiashenren.jpg
+  email: jiashen.22@intl.zju.edu.cn
+  number_educ: 1
+  info: PhD-Data Science
+  education1: BS from ZJU and UIUC
+  website: https://gaas9000.github.io/
+- name: Yuchong Wu
+  photo: yuchongwu.jpg
+  email: wuyuchong0317@gmail.com
+  number_educ: 1
+  info: PhD-Data Science
+  education1: BS from USTC
+  website: https://w-yuc.github.io/
+- name: Bolun Zhang
+  photo: bolunzhang.jpg
+  email: 3538879934@qq.com
+  number_educ: 1
+  info: PhD-Data Science
+  education1: BS from SJTU
+  website: https://southalone.github.io/
+- name: Shaoyuan Chen
+  photo: shaoyuanchen.jpg
+  email: chenshy299@mail2.sysu.edu.cn
+  number_educ: 2
+  info: PhD-Data Science
+  education1: BS from JLU
+  education2: MS from SYSU
+  website: https://where2havelunch.github.io/
+- name: Wentao Hu
+  photo: wentaohu.jpg
+  email: wentao120851@gmail.com
+  number_educ: 2
+  info: PhD-Data Science
+  education1: BS from HNU
+  education2: MS from NTU
+  website: https://wentaohu1208.github.io/
+- name: Xiaoyu Han
+  photo: xiaoyuhan.jpg
+  email: xiaoyu27@Illinois.edu
+  number_educ: 2
+  info: PhD-Data Science
+  education1: BS from HNU
+  education2: MS from UIUC
+  website: https://rain625.github.io/
+- name: Ziyang Jin
+  photo: ziyangjin.jpg
+  email: jonejin04@outlook.com
+  number_educ: 1
+  info: PhD-Data Science
+  education1: BS from ZJU/UIUC
+  website: https://moyusheep.github.io/
+- name: Tian Xie
+  photo: tianxie.jpg
+  email: xie_tian1@outlook.com
+  number_educ: 2
+  info: PhD-Data Science
+  education1: BEng from ZJU
+  education2: MEng from UCB
+  website: https://tianxie000.github.io/
+- name: Shida Yan
+  photo: shidayan.jpg
+  email: ysd0113@163.com
+  number_educ: 2
+  info: PhD-Data Science
+  education1: BS from CUEB
+  education2: MS from USC
+  website: https://shidayan.github.io/
+- name: Zhixuan He
+  photo: zhixuanhe.jpg
+  email: hezhixuan1997@gmail.com
+  number_educ: 2
+  info: PhD-Data Science
+  education1: BS from XMUM
+  education2: MS from HKU
+  website: https://github.com/pod2c
+- name: Jinning Yang
+  photo: jinningyang.jpg
+  email: jinny-yang@outlook.com
+  number_educ: 2
+  info: PhD-Data Science
+  education1: BS from SCAU
+  education2: MS from CUHK and JNU
+  website: https://yangjinning.github.io/
 - name: Jiangping Lv
   photo: jiangpinglv.jpg
   info: Part-time PhD-Data Science
@@ -255,3 +339,11 @@
   email: jill.cyleung@gmail.com
   number_educ: 0
   website: https://www.jillcyleung.tech/
+- name: Kai Yiu Chan
+  photo: kaiyiuchan.jpg
+  info: Part-time PhD-Data Science
+  email: kyc230301@gmail.com
+  number_educ: 2
+  education1: BBA from CityU
+  education2: MS from CUHK
+  website: https://heywoodkaiyiu.github.io/Heywood-Page/
