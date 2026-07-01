@@ -5,3 +5,6 @@ _site
 .idea/*
 .DS_Store
 .idea/
+
+# 腾讯文档论文表格导出（截图脚本 + OCR 还原表 + 截图），本地留存不上传
+tencent_sheet_export/
