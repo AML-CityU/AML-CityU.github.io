@@ -112,7 +112,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Benchmark Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[10] [TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](https://arxiv.org/abs/2511.05385)\
+[10] [TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](https://doi.org/10.1145/3818621)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chao Zhang, Yuhao Wang, Derong Xu, Haoxin Zhang, Yuanjie Lyu, Yuhao Chen, Shuochen Liu, Tong Xu, Xiangyu Zhao, Yan Gao, Yao Hu, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
 
