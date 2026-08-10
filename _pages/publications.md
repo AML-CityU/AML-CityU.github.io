@@ -12,7 +12,7 @@ permalink: /publications/
 You may also see our work on [Google Scholar](https://scholar.google.com/citations?user=Nkm9r2IAAAAJ). Please find our open-sourced works on our [Lab GitHub](https://github.com/Applied-Machine-Learning-Lab).
 
 ### Tutorials
-[1] Tutorial on Generative Recommendation: Foundations and Frontiers\
+[1] [Tutorial on Generative Recommendation: Foundations and Frontiers](https://doi.org/10.1145/3770855.3816450)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Yejing Wang, Honghui Bao, Bo Chen, Kuo Cai, Wenlin Zhang, Ziwei Liu, Sheng Zhang, Binhao Wang, Qinglin Jia, Qiang Luo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26, Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
@@ -96,15 +96,15 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangjie Kong, Haofei Tan, Zhehui Shen, Guojiang Shen, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;IoTJ, IEEE Internet of Things Journal, SCI Q1
 
-[6] [The Best of Both Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation](https://arxiv.org/abs/2512.10388)\
+[6] [The Best of Both Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation](https://doi.org/10.1145/3770855.3818490)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziwei Liu, Yejing Wang, Wanyu Wang, Zejian Wang, Qidong Liu, Zijian Zhang, Wei Huang, Chong Chen, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (ADS Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[7] [Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner](https://openreview.net/forum?id=uEvKoWvOCA)\
+[7] [Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner](https://doi.org/10.1145/3770855.3818422)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yewen Li, Jingtong Gao, Peng Jiang, Ruyi An, Xiangyu Zhao, Bo An, Fei Pan, Qingpeng Cai, Peng Jiang, Kun Gai\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (ADS Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[8] Hierarchical Residual Policy Optimization for Generative Recommendations\
+[8] [Hierarchical Residual Policy Optimization for Generative Recommendations](https://doi.org/10.1145/3770855.3818206)\
 &nbsp;&nbsp;&nbsp;&nbsp;Kaifeng Guo, Yiming Yang, Jingtong Gao, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Research Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
