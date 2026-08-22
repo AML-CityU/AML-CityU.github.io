@@ -1,4 +1,22 @@
 - date: Aug 2026
+  headline: "Our paper 'Sliding Window Attention Training for Efficient Large Language Models' got accepted by ICDM'26. Congratulations to Zichuan Fu, Guojing Li, Yejing Wang, and Derong Xu!"
+
+- date: Aug 2026
+  headline: "Our paper 'SemMark: Robust Large Language Model Watermarking via Semantic Chain-Binding' got accepted by ICDM'26. Congratulations!"
+
+- date: Aug 2026
+  headline: "Our paper 'MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling' got accepted by ICDM'26. Congratulations to Beining Bao!"
+
+- date: Aug 2026
+  headline: "Our paper 'HardGen: Generating Hard Samples for Tool-use Agents' got accepted by EMNLP'26 Main Conference. Congratulations!"
+
+- date: Aug 2026
+  headline: "Our paper 'SkillBrew: Multi-Objective Curation of Skill Banks for LLM Agents' got accepted by EMNLP'26 Main Conference. Congratulations to Wentao Hu!"
+
+- date: Aug 2026
+  headline: "Our paper 'How to Utilize Complementary Vision-Text Information for 2D Structure Understanding' got accepted by EMNLP'26 Main Conference. Congratulations to Jiancheng Dong, Pengyue Jia, Derong Xu, Jiawei Cheng, Jingyu Peng, Chao Zhang, and Bowen Liu!"
+
+- date: Aug 2026
   headline: "Our paper 'LLM4CGDS: Large language model-based agents for Chinese graded document simplification' was published in Engineering Applications of Artificial Intelligence. Congratulations to Jingtong Gao!"
 
 - date: Aug 2026

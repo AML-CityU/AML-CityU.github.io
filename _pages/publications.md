@@ -76,292 +76,317 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Publications in 2026
 
-[1] [LLM4CGDS: Large language model-based agents for Chinese graded document simplification](https://doi.org/10.1016/j.engappai.2026.113905)\
+[1] [Sliding Window Attention Training for Efficient Large Language Models](https://arxiv.org/abs/2502.18845)\
+&nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Guojing Li, Yejing Wang, Xian Wu, Yefeng Zheng, Yingying Zhang, Derong Xu, Xuetao Wei, Tong Xu, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;ICDM'26, Proceedings of the IEEE International Conference on Data Mining, CCF-B
+
+[2] SemMark: Robust Large Language Model Watermarking via Semantic Chain-Binding\
+&nbsp;&nbsp;&nbsp;&nbsp;Zihao Qiang, Jipeng Qiang, Jifei Hao, Yi Zhu, Xiangyu Zhao, Zhu Sun\
+&nbsp;&nbsp;&nbsp;&nbsp;ICDM'26, Proceedings of the IEEE International Conference on Data Mining, CCF-B
+
+[3] MuSeR: Scalable Long-sequence Recommendation with Multi-interest Modeling\
+&nbsp;&nbsp;&nbsp;&nbsp;Yongkang Fu, Beining Bao, Yu Jiang, Xiangyu Zhao, Hongyang Wei, Guangxing Chen, Zuodong Yang, Shantao Li, Zonggang Wu, Yuqi Lu, Shouke Qin, Hanmeng Liu, Maolin Wang\
+&nbsp;&nbsp;&nbsp;&nbsp;ICDM'26, Proceedings of the IEEE International Conference on Data Mining, CCF-B\
+&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Deployed in real-world scenarios at Baidu</font>
+
+[4] [HardGen: Generating Hard Samples for Tool-use Agents](https://arxiv.org/abs/2601.01498)\
+&nbsp;&nbsp;&nbsp;&nbsp;Bingguang Hao, Zengzhuang Xu, Yuntao Wen, Xinyi Xu, Quanen Sun, Yang Liu, Zihao Huang, Tong Zhao, Long Chen, Dong Wang, Yicheng Chen, Maolin Wang, Cunyin Peng, Xiangyu Zhao, Chenyi Zhuang, Ji Zhang\
+&nbsp;&nbsp;&nbsp;&nbsp;EMNLP'26, Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, CCF-B
+
+[5] [SkillBrew: Multi-Objective Curation of Skill Banks for LLM Agents](https://arxiv.org/abs/2605.29440)\
+&nbsp;&nbsp;&nbsp;&nbsp;Wentao Hu, Zhendong Chu, Yiming Zhang, Junda Wu, Ming Jin, Xiangyu Zhao, Yilei Shao, Yanfeng Wang, Qingsong Wen\
+&nbsp;&nbsp;&nbsp;&nbsp;EMNLP'26, Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, CCF-B
+
+[6] [How to Utilize Complementary Vision-Text Information for 2D Structure Understanding](https://arxiv.org/abs/2603.16245)\
+&nbsp;&nbsp;&nbsp;&nbsp;Jiancheng Dong, Pengyue Jia, Derong Xu, Jiawei Cheng, Jingyu Peng, Chao Zhang, Bowen Liu, Xin Sun, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao\
+&nbsp;&nbsp;&nbsp;&nbsp;EMNLP'26, Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, CCF-B
+
+[7] [LLM4CGDS: Large language model-based agents for Chinese graded document simplification](https://doi.org/10.1016/j.engappai.2026.113905)\
 &nbsp;&nbsp;&nbsp;&nbsp;Dengzhao Fang, Jipeng Qiang, Wenjie Hou, Yi Zhu, Jingtong Gao, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;EAAI, Engineering Applications of Artificial Intelligence, Volume 169, Article 113905
 
-[2] [R²-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search](https://arxiv.org/abs/2606.28566)\
+[8] [R²-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search](https://arxiv.org/abs/2606.28566)\
 &nbsp;&nbsp;&nbsp;&nbsp;Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, Yingyi Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'26, Proceedings of the 35th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[3] QA-Merging: Query-Adaptive Reasoning via Layer Selective Model Merging\
+[9] QA-Merging: Query-Adaptive Reasoning via Layer Selective Model Merging\
 &nbsp;&nbsp;&nbsp;&nbsp;Zhaofeng Zhong, Wei Yuan, Tong Chen, Liang Qu, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'26, Proceedings of the 35th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[4] OPERA: Option-level Pedagogical Explanation via Reasoning for Augmented Knowledge Tracing\
+[10] OPERA: Option-level Pedagogical Explanation via Reasoning for Augmented Knowledge Tracing\
 &nbsp;&nbsp;&nbsp;&nbsp;Zhiwei Huang, Xueyi Li, Jiaqi Zheng, Xiangyu Zhao, Zitao Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'26, Proceedings of the 35th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[5] [From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space](https://arxiv.org/abs/2604.25291)\
+[11] [From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space](https://arxiv.org/abs/2604.25291)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Xiaobei Wang, Yingyi Zhang, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'26, Proceedings of the 35th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[6] [Behavior-Equivalent Token: Single-Token Replacement for Long Prompts in LLMs](https://arxiv.org/abs/2511.23271)\
+[12] [Behavior-Equivalent Token: Single-Token Replacement for Long Prompts in LLMs](https://arxiv.org/abs/2511.23271)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiancheng Dong, Pengyue Jia, Jingyu Peng, Maolin Wang, Yuhao Wang, Lixin Su, Xin Sun, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'26, Proceedings of the 35th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[7] M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering\
+[13] M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering\
 &nbsp;&nbsp;&nbsp;&nbsp;Bowen Liu, Pengyue Jia, Wanyu Wang, Maolin Wang, Xiao Han, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CIKM'26, Proceedings of the 35th ACM International Conference on Information and Knowledge Management, CCF-B
 
-[8] [BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking](https://arxiv.org/abs/2602.17686)\
+[14] [BRIDGE: Bridging Reasoning In Distillation Gap Elimination via Structure-Aware Masking](https://arxiv.org/abs/2602.17686)\
 &nbsp;&nbsp;&nbsp;&nbsp;Bowen Yu, Sheng Zhang, Binhao Wang, Yi Wen, Jingtong Gao, Bowen Liu, Zimo Zhao, Shanshan Ye, Wanyu Wang, Maolin Wang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SDM'26, Proceedings of the 26th SIAM International Conference on Data Mining, CCF-B
 
-[9] Timeline Granularity Transformation: Aligning Narrative Logic with Temporal-Semantic Evolution\
+[15] Timeline Granularity Transformation: Aligning Narrative Logic with Temporal-Semantic Evolution\
 &nbsp;&nbsp;&nbsp;&nbsp;Chenlong Bao, Maolin Wang, Mingyang Lyu, Fangyuan Wang, Jin-Tao Tang, Shasha Li, Ting Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;SDM'26, Proceedings of the 26th SIAM International Conference on Data Mining, CCF-B
 
-[10] Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding\
+[16] Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuxuan Hu, Yuhao Wang, Tianbo Huang, Chao Zhang, Ziwei Liu, Lihua Zhang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;RecSys'26, Proceedings of the 20th ACM Conference on Recommender Systems, CCF-B
 
-[11] [Embedding in Recommender Systems: A Survey](https://doi.org/10.1145/3812652)\
+[17] [Embedding in Recommender Systems: A Survey](https://doi.org/10.1145/3812652)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Xinjian Zhao, Wanyu Wang, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, Volume 44, Issue 5, pages 1-55, CCF-A
 
-[12] Exploring Bus Stop Mobility Pattern with Temporal Variation: A Multi-Period Prediction Framework\
+[18] Exploring Bus Stop Mobility Pattern with Temporal Variation: A Multi-Period Prediction Framework\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiangjie Kong, Haofei Tan, Zhehui Shen, Guojiang Shen, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;IoTJ, IEEE Internet of Things Journal, SCI Q1
 
-[13] [The Best of Both Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation](https://doi.org/10.1145/3770855.3818490)\
+[19] [The Best of Both Worlds: Harmonizing Semantic and Hash IDs for Sequential Recommendation](https://doi.org/10.1145/3770855.3818490)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziwei Liu, Yejing Wang, Wanyu Wang, Zejian Wang, Qidong Liu, Zijian Zhang, Wei Huang, Chong Chen, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (ADS Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[14] [Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner](https://doi.org/10.1145/3770855.3818422)\
+[20] [Generative Auto-Bidding in Large-Scale Auctions via Diffusion Completer-Aligner](https://doi.org/10.1145/3770855.3818422)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yewen Li, Jingtong Gao, Peng Jiang, Ruyi An, Xiangyu Zhao, Bo An, Fei Pan, Qingpeng Cai, Peng Jiang, Kun Gai\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (ADS Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[15] [Hierarchical Residual Policy Optimization for Generative Recommendations](https://doi.org/10.1145/3770855.3818206)\
+[21] [Hierarchical Residual Policy Optimization for Generative Recommendations](https://doi.org/10.1145/3770855.3818206)\
 &nbsp;&nbsp;&nbsp;&nbsp;Kaifeng Guo, Yiming Yang, Jingtong Gao, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Research Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[16] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
+[22] Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Xiangyang Li, Qiyuan Ge, Kuicai Dong, Pengyue Jia, Xiaopeng Li, Zijian Zhang, Maolin Wang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;KDD'26 (Benchmark Track), Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, CCF-A
 
-[17] [TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](https://doi.org/10.1145/3818621)\
+[23] [TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](https://doi.org/10.1145/3818621)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chao Zhang, Yuhao Wang, Derong Xu, Haoxin Zhang, Yuanjie Lyu, Yuhao Chen, Shuochen Liu, Tong Xu, Xiangyu Zhao, Yan Gao, Yao Hu, Enhong Chen\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
 
-[18] [T-GINEE: A Tensor-Based Multi-Graph Representation Learning](https://icml.cc/virtual/2026/poster/62311)\
+[24] [T-GINEE: A Tensor-Based Multi-Graph Representation Learning](https://icml.cc/virtual/2026/poster/62311)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Xuhui Chen, Ziting Mai, Zhiqi Li, Tianshuo Wei, Yutian Xiao, Wenlin Zhang, Wanyu Wang, Ruocheng Guo, Haoxuan Li, Zenglin Xu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICML'26, Proceedings of the 43rd International Conference on Machine Learning, CCF-A
 
-[19] [Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](https://icml.cc/virtual/2026/poster/65819)\
+[25] [Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](https://icml.cc/virtual/2026/poster/65819)\
 &nbsp;&nbsp;&nbsp;&nbsp;Junyi Li, Xiaowei Qian, Yingyi Zhang, Wenlin Zhang, Guojing Li, Sheng Zhang, Xiao Han, Yichao Wang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICML'26, Proceedings of the 43rd International Conference on Machine Learning, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Spotlight</font>
 
-[20] [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://icml.cc/virtual/2026/poster/65770)\
+[26] [Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://icml.cc/virtual/2026/poster/65770)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yancheng Chen, Dun Ma, Shuai Zhang, Yang Liu, Xixun Lin, Xiangyu Zhao, Wenguo Yang, Wei Chen, Chuan Zhou\
 &nbsp;&nbsp;&nbsp;&nbsp;ICML'26, Proceedings of the 43rd International Conference on Machine Learning, CCF-A
 
-[21] PoemDirector: A Multi-Agent Context-Adaptive Instructional Mode Selection Framework for Chinese Classical Poetry Video Generation\
+[27] PoemDirector: A Multi-Agent Context-Adaptive Instructional Mode Selection Framework for Chinese Classical Poetry Video Generation\
 &nbsp;&nbsp;&nbsp;&nbsp;Tengteng Cheng, Xiaoli Zeng, Jialu Huang, Mingliang Hou, Zitao Liu, Xiangyu Zhao, Weiqi Luo\
 &nbsp;&nbsp;&nbsp;&nbsp;IJCAI'26 (AI and Social Good Track), Proceedings of the 35th International Joint Conference on Artificial Intelligence, CCF-B
 
-[22] [MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search](https://aclanthology.org/2026.acl-long.41/)\
+[28] [MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search](https://aclanthology.org/2026.acl-long.41/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Sheng Zhang, Junyi Li, Yingyi Zhang, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wenlin Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26, Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[23] [GeoArena: Evaluating Open-World Geographic Reasoning in Large Vision-Language Models](https://doi.org/10.18653/v1/2026.acl-long.956)\
+[29] [GeoArena: Evaluating Open-World Geographic Reasoning in Large Vision-Language Models](https://doi.org/10.18653/v1/2026.acl-long.956)\
 &nbsp;&nbsp;&nbsp;&nbsp;Pengyue Jia, Yingyi Zhang, Xiangyu Zhao, Sharon Li\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26, Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[24] [MTA: A Merge-then-Adapt Framework for Personalized Large Language Models](https://doi.org/10.18653/v1/2026.acl-long.2040)\
+[30] [MTA: A Merge-then-Adapt Framework for Personalized Large Language Models](https://doi.org/10.18653/v1/2026.acl-long.2040)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Yuanjin Zheng, Wanyu Wang, Wenlin Zhang, Pengyue Jia, Yingyi Zhang, Haiying He, Mengyang Ma, Yiqi Wang, Maolin Wang, Xuetao Wei, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26, Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[25] [Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory](https://openreview.net/forum?id=xgJiqRV9dq)\
+[31] [Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory](https://openreview.net/forum?id=xgJiqRV9dq)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Shuochen Liu, Pengfei Luo, Pengyue Jia, Yingyi Zhang, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao, Tong Xu\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26, Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[26] Select Before Use: On the Importance of Reference Model Selection in Preference Alignment\
+[32] Select Before Use: On the Importance of Reference Model Selection in Preference Alignment\
 &nbsp;&nbsp;&nbsp;&nbsp;Muyang Li, Runze Wu, Xiangyu Zhao, Bo Han, Daoyi Dong, Tongliang Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26, Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, CCF-A
 
-[27] [Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression](https://aclanthology.org/2026.findings-acl.25/)\
+[33] [Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression](https://aclanthology.org/2026.findings-acl.25/)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jingyu Peng, Maolin Wang, Nan Wang, Jiatong Li, Yuchen Li, Yuyang Ye, Wanyu Wang, Pengyue Jia, Kai Zhang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[28] [Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning](https://doi.org/10.18653/v1/2026.findings-acl.2098)\
+[34] [Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning](https://doi.org/10.18653/v1/2026.findings-acl.2098)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Xian Wu, Guojing Li, Yejing Wang, Yijun Chen, Zihao Zhao, Yixuan Luo, Hanyu Yan, Yefeng Zheng, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[29] [AdapTime: Enabling Adaptive Temporal Reasoning in Large Language Models](https://doi.org/10.18653/v1/2026.findings-acl.1621)\
+[35] [AdapTime: Enabling Adaptive Temporal Reasoning in Large Language Models](https://doi.org/10.18653/v1/2026.findings-acl.1621)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yimin Deng, Yejing Wang, Zhenxi Lin, Zichuan Fu, Xian Wu, Derong Xu, Yefeng Zheng, Xiangyu Zhao, Guoshuai Zhao, Li Zhu, Xueming Qian\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[30] [MultiDx: A Multi-Source Knowledge Integration Framework towards Diagnostic Reasoning](https://doi.org/10.18653/v1/2026.findings-acl.1646)\
+[36] [MultiDx: A Multi-Source Knowledge Integration Framework towards Diagnostic Reasoning](https://doi.org/10.18653/v1/2026.findings-acl.1646)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yimin Deng, Zhenxi Lin, Yejing Wang, Xian Wu, Pengyue Jia, Zichuan Fu, Derong Xu, Yefeng Zheng, Xiangyu Zhao, Guoshuai Zhao, Li Zhu, Xueming Qian\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[31] [SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering](https://doi.org/10.18653/v1/2026.findings-acl.1953)\
+[37] [SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering](https://doi.org/10.18653/v1/2026.findings-acl.1953)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuqing Fu, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, Xiao Han, Maolin Wang, Guoshuai Zhao, Yi Chang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[32] [BalanceSFT: Improving LLM Function Calling with Balanced Training Signals and Data Hardness](https://doi.org/10.18653/v1/2026.findings-acl.900)\
+[38] [BalanceSFT: Improving LLM Function Calling with Balanced Training Signals and Data Hardness](https://doi.org/10.18653/v1/2026.findings-acl.900)\
 &nbsp;&nbsp;&nbsp;&nbsp;Bingguang Hao, Zengzhuang Xu, Maolin Wang, Yuntao Wen, Yicheng Chen, Cunyin Peng, Long Chen, Xiangyu Zhao, Jinjie Gu, Chenyi Zhuang, Ji Zhang\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[33] Can LLMs Hear the Dogwhistle?\
+[39] Can LLMs Hear the Dogwhistle?\
 &nbsp;&nbsp;&nbsp;&nbsp;Yifan Liu, Yi Lin, Xinwei Guo, Ziwei Wang, Jiaxin Zhang, Guanhua Chen, Haiyan Wu, Xiangyu Zhao, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;ACL'26 (Findings), Findings of the Association for Computational Linguistics: ACL 2026
 
-[34] [LLM-EDT: Large Language Models Enhanced Cross-domain Sequential Recommendation with Dual-phase Training](https://doi.org/10.1145/3805712.3809748)\
+[40] [LLM-EDT: Large Language Models Enhanced Cross-domain Sequential Recommendation with Dual-phase Training](https://doi.org/10.1145/3805712.3809748)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziwei Liu, Qidong Liu, Wanyu Wang, Yejing Wang, Pengyue Jia, Tong Xu, Wei Huang, Chong Chen, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26, Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
-[35] [GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks](https://doi.org/10.1145/3805712.3809663)\
+[41] [GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks](https://doi.org/10.1145/3805712.3809663)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Shengyu Zhou, Jinyu Lu, Qidong Liu, Xinhang Li, Wenlin Zhang, Feng Li, Pengjie Wang, Chuan Yu, Jian Xu, Bo Zheng, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26, Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Deployed across all of Taobao businesses, including Taobao Mobile, Taobao Web and Xianyu</font>
 
-[36] ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory\
+[42] ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Yanxin Chen, Wanyu Wang, Pengyue Jia, Chao Zhang, Maolin Wang, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26, Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
-[37] Improving Interpretability of Cognitive Diagnosis Models with LLM-based Semantic Augmentation\
+[43] Improving Interpretability of Cognitive Diagnosis Models with LLM-based Semantic Augmentation\
 &nbsp;&nbsp;&nbsp;&nbsp;Youheng Bai, Jiaqi Zheng, Mingliang Hou, Teng Guo, Mi Tian, Xiangyu Zhao, Zitao Liu, Weiqi Luo\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26, Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
-[38] [DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent](https://doi.org/10.1145/3805712.3808597)\
+[44] [DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent](https://doi.org/10.1145/3805712.3808597)\
 &nbsp;&nbsp;&nbsp;&nbsp;Tongzhou Wu, Yuhao Wang, Xinyu Ma, Shuaiqiang Wang, Dawei Yin, Xiuqiang He, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26 (Resource Track), Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
-[39] [Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://doi.org/10.1145/3805712.3808609)\
+[45] [Personalized Deep Research: A User-Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://doi.org/10.1145/3805712.3808609)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Wenlin Zhang, Yingyi Zhang, Pengyue Jia, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;SIGIR'26 (Resource Track), Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, CCF-A
 
-[40] [TORepair: Diffusion-based Task-Oriented Error Repair via Differentiable Bi-Level Optimization](https://ieeexplore.ieee.org/abstract/document/11629381)\
+[46] [TORepair: Diffusion-based Task-Oriented Error Repair via Differentiable Bi-Level Optimization](https://ieeexplore.ieee.org/abstract/document/11629381)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wei Ni, Xiaoye Miao, Xiangyu Zhao, Yangyang Wu, Jianwei Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;ICDE'26, Proceedings of the 42nd IEEE International Conference on Data Engineering, CCF-A
 
-[41] [When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance](https://openaccess.thecvf.com/content/CVPR2026/html/Xiang_When_Safety_Collides_Resolving_Multi-Category_Harmful_Conflicts_in_Text-to-Image_Diffusion_CVPR_2026_paper.html)\
+[47] [When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance](https://openaccess.thecvf.com/content/CVPR2026/html/Xiang_When_Safety_Collides_Resolving_Multi-Category_Harmful_Conflicts_in_Text-to-Image_Diffusion_CVPR_2026_paper.html)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yongli Xiang, Ziming Hong, Zhaoqing Wang, Xiangyu Zhao, Bo Han, Tongliang Liu\
 &nbsp;&nbsp;&nbsp;&nbsp;CVPR'26, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, CCF-A
 
-[42] [Democratic Recommendation with User and Item Representatives Produced by Graph Condensation](https://doi.org/10.1109/TKDE.2026.3669777)\
+[48] [Democratic Recommendation with User and Item Representatives Produced by Graph Condensation](https://doi.org/10.1109/TKDE.2026.3669777)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiahao Liang, Haoran Yang, Xiangyu Zhao, Zhiwen Yu, Guandong Xu, Wanyu Wang\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering, CCF-A
 
-[43] [Multi-agents based User Values Mining for Recommendation](https://link.springer.com/article/10.1007/s41019-026-00349-7)\
+[49] [Multi-agents based User Values Mining for Recommendation](https://link.springer.com/article/10.1007/s41019-026-00349-7)\
 &nbsp;&nbsp;&nbsp;&nbsp;Lijian Chen, Wei Yuan, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;Data Science and Engineering
 
-[44] [AEGI: Anchor Event Guided Inference for TKGQA](https://link.springer.com/chapter/10.1007/978-981-92-1465-5_20)\
+[50] [AEGI: Anchor Event Guided Inference for TKGQA](https://link.springer.com/chapter/10.1007/978-981-92-1465-5_20)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuqing Fu, Yimin Deng, Yejing Wang, Xueming Qian, Guoshuai Zhao, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;PAKDD'26, Proceedings of the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining, CCF-C
 
-[45] [SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization](https://openreview.net/forum?id=P1PZBR6a4S)\
+[51] [SONATA: Synergistic Coreset Informed Adaptive Temporal Tensor Factorization](https://openreview.net/forum?id=P1PZBR6a4S)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Zhiqi Li, Binhao Wang, Xuhui Chen, Tianshuo Wei, Wanyu Wang, Shikai Fang, Ruocheng Guo, Zenglin Xu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations, CCF-A
 
-[46] [From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents](https://openreview.net/forum?id=i2yIvZARnG)\
+[52] [From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents](https://openreview.net/forum?id=i2yIvZARnG)\
 &nbsp;&nbsp;&nbsp;&nbsp;Derong Xu, Yi Wen, Pengyue Jia, Yingyi Zhang, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu\
 &nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations, CCF-A
 
-[47] [Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval](https://openreview.net/forum?id=f7p0F2X6XN)\
+[53] [Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval](https://openreview.net/forum?id=f7p0F2X6XN)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yingyi Zhang, Junyi Li, Wenlin Zhang, Pengyue Jia, Xianneng Li, Yichao Wang, Derong Xu, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations, CCF-A
 
-[48] [Fair Decision Utility in Human-AI Collaboration: Interpretable Confidence Adjustment for Humans with Cognitive Disparities](https://openreview.net/forum?id=hqq6GyYISN)\
+[54] [Fair Decision Utility in Human-AI Collaboration: Interpretable Confidence Adjustment for Humans with Cognitive Disparities](https://openreview.net/forum?id=hqq6GyYISN)\
 &nbsp;&nbsp;&nbsp;&nbsp;Jiashi Gao, Kexin Liu, Xinwei Guo, Junlei Zhou, Jiaxin Zhang, Xiangyu Zhao, Guanhua Chen, Xin Yao, Xuetao Wei\
 &nbsp;&nbsp;&nbsp;&nbsp;ICLR'26, The 14th International Conference on Learning Representations, CCF-A
 
-[49] [D2TCDR: Disentangled Diffusion-based Transfer for Cross-Domain Recommendation](https://doi.org/10.1145/3795793)\
+[55] [D2TCDR: Disentangled Diffusion-based Transfer for Cross-Domain Recommendation](https://doi.org/10.1145/3795793)\
 &nbsp;&nbsp;&nbsp;&nbsp;Hong Zhou, Xixun Lin, Yanan Cao, Shichao Zhu, Renqi Jia, Xiangyu Zhao, Guandong Xu, Li Guo\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
 
-[50] [DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation](https://doi.org/10.1109/TKDE.2026.3655841)\
+[56] [DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation](https://doi.org/10.1109/TKDE.2026.3655841)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xinyi Gao, Wenjie Li, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin\
 &nbsp;&nbsp;&nbsp;&nbsp;TKDE, IEEE Transactions on Knowledge and Data Engineering, CCF-A
 
-[51] [Generating Compressed Counterfactual Hard Negative Samples for Graph Contrastive Learning](https://doi.org/10.1049/cit2.70102)\
+[57] [Generating Compressed Counterfactual Hard Negative Samples for Graph Contrastive Learning](https://doi.org/10.1049/cit2.70102)\
 &nbsp;&nbsp;&nbsp;&nbsp;Haoran Yang, Hongxu Chen, Xiangyu Zhao, Sixiao Zhang, Xiangguo Sun, Qian Li, Hongzhi Yin, Guandong Xu\
 &nbsp;&nbsp;&nbsp;&nbsp;CAAI Transactions on Intelligence Technology
 
-[52] [Clue2Emo: A Brain-Inspired Framework for Open-Vocabulary Multimodal Emotion Recognition](https://doi.org/10.1109/ICASSP55912.2026.11460916)\
+[58] [Clue2Emo: A Brain-Inspired Framework for Open-Vocabulary Multimodal Emotion Recognition](https://doi.org/10.1109/ICASSP55912.2026.11460916)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ziyun Zhang, Jian Chen, Yuxuan Hu, Zhen Zhang, Xiaoyan Yuan, Min Yang, Xiangyu Zhao, Edith Ngai, Chengming Li, Xiping Hu\
 &nbsp;&nbsp;&nbsp;&nbsp;ICASSP'26, IEEE International Conference on Acoustics, Speech, and Signal Processing, CCF-B
 
-[53] [To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention](https://dl.acm.org/doi/10.1145/3774904.3792235)\
+[59] [To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention](https://dl.acm.org/doi/10.1145/3774904.3792235)\
 &nbsp;&nbsp;&nbsp;&nbsp;Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26, Proceedings of the ACM Web Conference 2026, CCF-A
 
-[54] [BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations](https://dl.acm.org/doi/10.1145/3774904.3792408)\
+[60] [BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations](https://dl.acm.org/doi/10.1145/3774904.3792408)\
 &nbsp;&nbsp;&nbsp;&nbsp;Mengyang Ma, Xiaopeng Li, Wanyu Wang, Zhaocheng Du, Jingtong Gao, Pengyue Jia, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, Xiao Han, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26, Proceedings of the ACM Web Conference 2026, CCF-A
 
-[55] [Detecting Miscitation on the Scholarly Web through LLM-Augmented Text-Rich Graph Learning](https://dl.acm.org/doi/10.1145/3774904.3792568)\
+[61] [Detecting Miscitation on the Scholarly Web through LLM-Augmented Text-Rich Graph Learning](https://dl.acm.org/doi/10.1145/3774904.3792568)\
 &nbsp;&nbsp;&nbsp;&nbsp;Huidong Wu, Haojia Xiang, Jingtong Gao, Xiangyu Zhao, Dengsheng Wu, Jianping Li\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26, Proceedings of the ACM Web Conference 2026, CCF-A
 
-[56] [SAGE: Global Semantic Alignment with LLMs for Long-Tail Sequential Recommendation](https://dl.acm.org/doi/10.1145/3774904.3792456)\
+[62] [SAGE: Global Semantic Alignment with LLMs for Long-Tail Sequential Recommendation](https://dl.acm.org/doi/10.1145/3774904.3792456)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Tongshu Bian, Ziyan Wang, Xiaotong Jiang, Binhao Wang, Derong Xu, Wanyu Wang, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26, Proceedings of the ACM Web Conference 2026, CCF-A
 
-[57] [ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment](https://dl.acm.org/doi/10.1145/3774904.3792819)\
+[63] [ARCHER: Shooting Straight in Multimodal E-Commerce Search at Alibaba with Progressive Alignment](https://dl.acm.org/doi/10.1145/3774904.3792819)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Lang Fu, Jun Chu, Kai Guo, Chenjie Qin, Xinxin Wang, Siyu Wu, Wen Jiang, and Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Industry Track), Proceedings of the ACM Web Conference 2026, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system at Taobao B2B platform, serving over 10 million daily queries and achieved a 2.1% increase in CTR</font>
 
-[58] [NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations](https://dl.acm.org/doi/10.1145/3774904.3792797)\
+[64] [NEZHA: A Zero-sacrifice and Hyperspeed Parallel Decoding Architecture for Generative Recommendations](https://dl.acm.org/doi/10.1145/3774904.3792797)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yejing Wang, Shengyu Zhou, Jinyu Lu, Ziwei Liu, Langming Liu, Maolin Wang, Wenlin Zhang, Feng Li, Wenbo Su, Pengjie Wang, Jian Xu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Industry Track), Proceedings of the ACM Web Conference 2026, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system at Taobao platform, serving over 100 million daily active users and generating over 10 billion yuan in advertising revenue</font>
 
-[59] [PromptX: A Cognitive Agent Platform with Long-term Memory](https://dl.acm.org/doi/10.1145/3774905.3793108)\
+[65] [PromptX: A Cognitive Agent Platform with Long-term Memory](https://dl.acm.org/doi/10.1145/3774905.3793108)\
 &nbsp;&nbsp;&nbsp;&nbsp;Binhao Wang, Jianglin Huang, Xiao Hu, Shan Jiang, Maolin Wang, Ching-Ho Yang, Jian Jiang, Junhao Ye, Yaozu Cen, Rui Zeng, Yingtong Zhou, Yingjie Luo, Guanjie Wu, Wangzhong Xu, Feiyu Zhou, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;WWW'26 (Demo Track), Companion Proceedings of The Web Conference 2026\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Over 3K stars and 50K downloads on GitHub. PromptX has completed a 5-month practical deployment in 15+ enterprises across 6 industries such as software engineering, education, and healthcare</font>
 
-[60] [Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions](https://doi.org/10.1145/3788284)\
+[66] [Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions](https://doi.org/10.1145/3788284)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Yingyi Zhang, Bowen Yu, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys (Impact Factor: 26.3)
 
 
-[61] [A Survey of Personalization: From RAG to Agent](https://doi.org/10.1145/3802586)\
+[67] [A Survey of Personalization: From RAG to Agent](https://doi.org/10.1145/3802586)\
 &nbsp;&nbsp;&nbsp;&nbsp;Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Xiangyang Li, Zhaocheng Du, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;TOIS, ACM Transactions on Information Systems, CCF-A
 
 
-[62] [Automated Information Flow Selection for Multi-Scenario Multi-Task Recommendation](https://dl.acm.org/doi/10.1145/3773966.3777992)\
+[68] [Automated Information Flow Selection for Multi-Scenario Multi-Task Recommendation](https://dl.acm.org/doi/10.1145/3773966.3777992)\
 &nbsp;&nbsp;&nbsp;&nbsp;Chaohua Yang, Dugang Liu*, Shiwei Li, Yuwen Fu, Xing Tang, Weihong Luo, Xiangyu Zhao, Xiuqiang He, Zhong Ming\
 &nbsp;&nbsp;&nbsp;&nbsp;WSDM'26, Proceedings of the 19th ACM International Conference on Web Search and Data Mining, CCF-B
 
 
 
-[63] [Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System](https://www.nature.com/articles/s41746-025-02170-4)\
+[69] [Enhancing Clinical Documentation with Voice Processing and Large Language Models: A Study on the LAOS System](https://www.nature.com/articles/s41746-025-02170-4)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yupeng Xu, Huixun Jia, Maolin Wang, Jie Feng, Xun Xu, Haiyan Wang, Jieqiong Chen, Zheng Zheng, Xiaoyan Yang, Yue Shen, Jian Wang, Chenyi Zhuang, Peng Wei, Ruocheng Guo, Xiangyu Zhao, Junxiang Fan, Xiaodong Sun\
 &nbsp;&nbsp;&nbsp;&nbsp;Nature npj Digital Medicine, SCI Q1 journal, Impact Factor 15.1 \
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>1 online launched system at Shanghai General Hospital, and integrated in 蚂蚁阿福 (蚂蚁旗下AI健康助手)</font>
 
 
-[64] [Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/38696)\
+[70] [Boosting Fine-Grained Urban Flow Inference via Lightweight Architecture and Focalized Optimization](https://ojs.aaai.org/index.php/AAAI/article/view/38696)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuanshao Zhu, Xiangyu Zhao, Zijian Zhang, Xuetao Wei, James Jianqiao Yu\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Oral), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation (4.5%)</font>
 
 
-[65] [Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/38679)\
+[71] [Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/38679)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yingyi Zhang, Pengyue Jia, Derong Xu, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Oral), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A\
 &nbsp;&nbsp;&nbsp;&nbsp;<font color=red>Oral Presentation (4.5%)</font>
 
 
-[66] [Renormalization Group Guided Tensor Network Structure Search](https://ojs.aaai.org/index.php/AAAI/article/view/39840)\
+[72] [Renormalization Group Guided Tensor Network Structure Search](https://ojs.aaai.org/index.php/AAAI/article/view/39840)\
 &nbsp;&nbsp;&nbsp;&nbsp;Maolin Wang, Bowen Yu, Sheng Zhang, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
 
-[67] [Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection](https://doi.org/10.1609/aaai.v40i17.38509)\
+[73] [Emotion and Intention Guided Multi-Modal Learning for Sticker Response Selection](https://doi.org/10.1609/aaai.v40i17.38509)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuxuan Hu, Jian Chen, Yuhao Wang, Zixuan Li, Jing Xiong, Pengyue Jia, Wei Wang, Chengming Li, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
 
-[68] [RoSA: RoPE-aware Selective Adaptation for Efficient LLM Fine-Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/38589)\
+[74] [RoSA: RoPE-aware Selective Adaptation for Efficient LLM Fine-Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/38589)\
 &nbsp;&nbsp;&nbsp;&nbsp;Dayan Pan, Jingyuan Wang, Yilong Zhou, Jiawei Cheng, Pengyue Jia, Xiangyu Zhao\
 &nbsp;&nbsp;&nbsp;&nbsp;AAAI'26 (Poster), Proceedings of the 40th AAAI Conference on Artificial Intelligence, CCF-A
 
