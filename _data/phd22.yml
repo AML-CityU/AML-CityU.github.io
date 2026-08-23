@@ -307,6 +307,13 @@
   education1: BS from SCAU
   education2: MS from CUHK and JNU
   website: https://yangjinning.github.io/
+- name: Chao Yang
+  photo: chaoyang.jpg
+  email: cyang489-c@my.cityu.edu.hk
+  number_educ: 0
+  info: PhD-Data Science
+  education1: BS from UESTC
+  website: https://HarryYancy.github.io/
 - name: Chen Yancan
   photo: chenyancan.jpg
   email: yancan@u.nus.edu
@@ -315,6 +322,14 @@
   education1: BS from MUC
   education2: MS from NUS
   website: https://aivolcano.github.io/
+- name: Mengyang Ma
+  photo: mengyangma.jpg
+  email: ronin.ma@my.cityu.edu.hk
+  number_educ: 0
+  info: MPhil-PhD-Data Science
+  education1: BS from CityU
+  education2: Exchange at EPFL
+  website: https://ronineume.github.io/
 - name: Youxing LI
   photo: youxingli.jpg
   email: youxingxjtu25@163.com
