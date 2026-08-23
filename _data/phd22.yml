@@ -307,6 +307,53 @@
   education1: BS from SCAU
   education2: MS from CUHK and JNU
   website: https://yangjinning.github.io/
+- name: Chen Yancan
+  photo: chenyancan.jpg
+  email: yancan@u.nus.edu
+  number_educ: 0
+  info: PhD-Data Science
+  education1: BS from MUC
+  education2: MS from NUS
+  website: https://aivolcano.github.io/
+- name: Youxing LI
+  photo: youxingli.jpg
+  email: youxingxjtu25@163.com
+  number_educ: 0
+  info: PhD-Data Science
+  education1: BS from XJTU
+  website: https://github.com/LIYouxing-Rick/liyouxing-rick.github.io
+- name: Hao He
+  photo: haohe.jpg
+  email: swufe1hh@gmail.com
+  number_educ: 0
+  info: CityU-HIT Joint-PhD
+  education1: BS from SCU
+  education2: MS from SWUFE
+  website: https://hehowhow.github.io/
+- name: Shuochen Liu
+  photo: shuochenliu.jpg
+  email: shuochenliu@mail.ustc.edu.cn
+  number_educ: 0
+  info: CityU-USTC Joint-PhD
+  education1: BS from HFUT
+  education2: MS from USTC
+  website: https://polarisliu1.github.io/
+- name: Yao Xiao
+  photo: yaoxiao.jpg
+  email: litxiaoyao@mail.ustc.edu.cn
+  number_educ: 0
+  info: CityU-USTC Joint-PhD
+  education1: BS from SWUST
+  education2: USTC advised by Prof. Tong Xu
+  website: https://litxiaoyao.github.io/
+- name: Yupeng Han
+  photo: yupenghan.jpg
+  email: yupenghan@mail.ustc.edu.cn
+  number_educ: 0
+  info: CityU-USTC Joint-PhD
+  education1: BS from NUFE
+  education2: MS from USTC
+  website: https://hyp26cs.github.io/
 - name: Jiangping Lv
   photo: jiangpinglv.jpg
   info: Part-time PhD-Data Science
