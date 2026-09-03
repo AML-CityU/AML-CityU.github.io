@@ -51,6 +51,28 @@
   number_educ: 0
   info: PhD-Data Science, 2026, current position-Alibaba International Digital Commerce (Bravo Star offer)
   website: https://wyhwhy.github.io/
+- name: Jingtong Gao
+  photo: jingtonggao.jpg
+  email: jt.g@my.cityu.edu.hk
+  number_educ: 0
+  info: PhD-Data Science, 2026, current position-Tencent (Qingyun offer)
+  education1: BS from BUAA
+  education2: MS from NTU
+  website: https://gaojingtong.github.io/
+- name: Qidong Liu
+  photo: qidongliu.jpg
+  email: qidongliu2-c@my.cityu.edu.hk
+  number_educ: 0
+  info: CityU-XJTU Joint-PhD, 2026, current position-Assistant Professor at XJTU (青秀计划)
+  education1: Joint-PhD with XJTU, Prof Feng Tian
+  website: https://liuqidong07.github.io/
+- name: Yuanshao Zhu
+  photo: yuanshaozhu.jpg
+  email: yuanshzhu2-c@my.cityu.edu.hk
+  number_educ: 0
+  info: PhD-Data Science (CityU-SusTech Joint-PhD), 2026, current position-Postdoc at MIT
+  education1: Joint-PhD with SusTech, Prof James J.Q. Yu and Prof Xuetao Wei
+  website: https://yasoz.github.io/
 - name: Haoran Yang
   photo: haoranyang.jpg
   info: PhD at UTS&PolyU, Online RA in 2022-2024, current position-Associate Professor at Central South University
