@@ -1,3 +1,27 @@
+- date: Sep 2026
+  headline: "Our paper 'Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies' got accepted by NeurIPS'26. Congratulations to Yi Wen, Derong Xu, Pengyue Jia, Yingyi Zhang, Junyi Li, Wenlin Zhang, and Xiaopeng Li!"
+
+- date: Sep 2026
+  headline: "Our paper 'TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment' got accepted by NeurIPS'26. Congratulations to Yi Wen, Pengyue Jia, Derong Xu, Yingyi Zhang, and Wenlin Zhang!"
+
+- date: Sep 2026
+  headline: "Our paper 'GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization' got accepted by NeurIPS'26. Congratulations to Pengyue Jia, Derong Xu, Yingyi Zhang, Xiaopeng Li, Wenlin Zhang, Yi Wen, and Yuanshao Zhu!"
+
+- date: Sep 2026
+  headline: "Our paper 'UniRank: Unified List-wise Reranking via Confidence-Ordered Denoising' got accepted by NeurIPS'26. Congratulations to Pengyue Jia!"
+
+- date: Sep 2026
+  headline: "Our paper 'Feeling of Knowing in Large Language Models' got accepted by NeurIPS'26. Congratulations to Zichuan Fu, Jingtong Gao, Wenlin Zhang, Binhao Wang, Yimin Deng, Guojing Li, Xiaopeng Li, and Derong Xu!"
+
+- date: Sep 2026
+  headline: "Our paper 'MaRK: Markov-adapted Recurrent Kernels for Dynamic Operator Conditioning in State Space Models' got accepted by NeurIPS'26. Congratulations!"
+
+- date: Sep 2026
+  headline: "Our paper 'Fine-tuning Does Not Reach All: Uneven Safety and Knowledge Dynamics in Language Models' got accepted by NeurIPS'26. Congratulations!"
+
+- date: Sep 2026
+  headline: "Our paper 'Multi-Task Deep Recommender Systems: A Survey' got accepted by ACM Computing Surveys (CSUR). Congratulations to Yuhao Wang and Ziru Liu!"
+
 - date: Aug 2026
   headline: "Our paper 'Sliding Window Attention Training for Efficient Large Language Models' got accepted by ICDM'26. Congratulations to Zichuan Fu, Guojing Li, Yejing Wang, and Derong Xu!"
 
@@ -753,7 +777,7 @@
   headline: "7 of our papers (5 full & 2 short) got accept by SIGIR'23. Congratulations!"
 
 - date: Feb 2023
-  headline: "Our new survey <a href='https://arxiv.org/abs/2302.03525'>Multi-Task Deep Recommender Systems: A Survey</a> is online"
+  headline: "Our new survey <a href='https://doi.org/10.1145/3846376'>Multi-Task Deep Recommender Systems: A Survey</a> is online"
 
 - date: Feb 2023
   headline: "Our new survey <a href='https://arxiv.org/abs/2302.03883'>Multimodal Recommender Systems: A Survey</a> is online"
