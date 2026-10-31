@@ -118,7 +118,7 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 [11] [Multi-Task Deep Recommender Systems: A Survey](https://doi.org/10.1145/3846376)\
 &nbsp;&nbsp;&nbsp;&nbsp;Yuhao Wang, Ha Tsz Lam, Yi Wong, Ziru Liu, Wanyu Wang, Maolin Wang, Yichao Wang, Bo Chen, Huifeng Guo, Ruiming Tang, Xiangyu Zhao\
-&nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys, CCF-A
+&nbsp;&nbsp;&nbsp;&nbsp;CSUR, ACM Computing Surveys, Volume 59, Issue 1, CCF-A
 
 [12] [Sliding Window Attention Training for Efficient Large Language Models](https://arxiv.org/abs/2502.18845)\
 &nbsp;&nbsp;&nbsp;&nbsp;Zichuan Fu, Guojing Li, Yejing Wang, Xian Wu, Yefeng Zheng, Yingying Zhang, Derong Xu, Xuetao Wei, Tong Xu, Xiangyu Zhao\
