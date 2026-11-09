@@ -1,4 +1,7 @@
 - date: Nov 2026
+  headline: "Our paper 'A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization' got accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). Congratulations to Xiaopeng Li and Pengyue Jia!"
+
+- date: Nov 2026
   headline: "Our paper 'Personalized Memory Rubrics: Learning What to Remember per User via Rubric-Guided Credit Assignment' got accepted by WSDM'27 (Main Conference). Congratulations to Yupeng Han and Shuochen Liu!"
 
 - date: Nov 2026
@@ -62,7 +65,7 @@
   headline: "Our paper 'LLM4CGDS: Large language model-based agents for Chinese graded document simplification' was published in Engineering Applications of Artificial Intelligence. Congratulations to Jingtong Gao!"
 
 - date: Aug 2026
-  headline: "Our paper 'R²-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search' got accepted by CIKM'26. Congratulations to Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, Yingyi Zhang, and Maolin Wang!"
+  headline: "Our paper 'R2-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search' got accepted by CIKM'26. Congratulations to Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, Yingyi Zhang, and Maolin Wang!"
 
 - date: Aug 2026
   headline: "Our paper 'QA-Merging: Query-Adaptive Reasoning via Layer Selective Model Merging' got accepted by CIKM'26. Congratulations!"
@@ -71,10 +74,10 @@
   headline: "Our paper 'OPERA: Option-level Pedagogical Explanation via Reasoning for Augmented Knowledge Tracing' got accepted by CIKM'26. Congratulations to Zhiwei Huang, Xueyi Li, and Jiaqi Zheng!"
 
 - date: Aug 2026
-  headline: "Our paper 'From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space' got accepted by CIKM'26. Congratulations to Pengyue Jia, Yingyi Zhang, Xiaopeng Li, and Yejing Wang!"
+  headline: "Our paper 'GloRank: Generative Reranking for Deep Recommender Systems via Global Identifier Generation' got accepted by CIKM'26. Congratulations to Pengyue Jia, Yingyi Zhang, Xiaopeng Li, and Yejing Wang!"
 
 - date: Aug 2026
-  headline: "Our paper 'Behavior-Equivalent Token: Single-Token Replacement for Long Prompts in LLMs' got accepted by CIKM'26. Congratulations to Jiancheng Dong, Pengyue Jia, Jingyu Peng, Maolin Wang, and Yuhao Wang!"
+  headline: "Our paper 'Learning a Single Token to Replace Long System Prompts in LLMs' got accepted by CIKM'26. Congratulations to Jiancheng Dong, Pengyue Jia, Jingyu Peng, Maolin Wang, and Yuhao Wang!"
 
 - date: Aug 2026
   headline: "Our paper 'M2DNA: Multi-Modal Dual-Stream Representation Learning with Joint Relational Modeling for DNA Sequence Clustering' got accepted by CIKM'26. Congratulations to Bowen Liu, Pengyue Jia, Wanyu Wang, Maolin Wang, and Xiao Han!"
