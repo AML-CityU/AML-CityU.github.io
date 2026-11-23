@@ -51,6 +51,8 @@ Master's and Bachelor's students at CityU who intent to work with us, please con
 
 Due to the large number of lab members, on-site and online RA positions are only available for excellent students (preferably >= 6 months).
 
+<u>Recommendation letters will only be provided to students with at least one paper submission while working in the lab</u>, ensuring assessments are based on substantive research collaboration and comprehensive understanding of the student's capabilities.
+
 ***
 <u>Due to the high volume of the emails, I may not be able to reply to each individual of them.</u>
 
